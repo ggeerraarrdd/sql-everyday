@@ -24,11 +24,11 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
 | Day   | Title                                  | Solution  | Site        | Difficulty per Site   |
 | ----- | -------------------------------------- | --------- | ----------- | --------------------- |
-| 001   | [Histogram of Users and Purchases](https://datalemur.com/questions/sql-histogram-tweets)     | [Solution](solutions/001_histogram_of_tweets.md)  | DataLemur    |  Easy                     |
+| 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)     | [Solution](solutions/001_histogram_of_tweets.md)  | DataLemur    |  Easy                     |
 
 ## License
 
-* [MIT License](https://github.com/ggeerraarrdd/large-parks/blob/main/LICENSE)
+* [MIT License](https://github.com/ggeerraarrdd/sql-everyday/blob/main/LICENSE)
 
 ## Acknowledgments
 

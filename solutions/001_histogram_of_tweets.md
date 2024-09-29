@@ -32,5 +32,5 @@ GROUP BY count
 
 TODO
 
-Go to [Table of Contents](/README.md)\
+Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

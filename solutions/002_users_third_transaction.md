@@ -1,4 +1,4 @@
-# SQL Everyday \#003
+# SQL Everyday \#002
 
 ## User's Third Transaction
 

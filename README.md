@@ -25,6 +25,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | Day   | Title                                  | Solution  | Site        | Difficulty per Site   |
 | ----- | -------------------------------------- | --------- | ----------- | --------------------- |
 | 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)     | [Solution](solutions/001_histogram_of_tweets.md)  | DataLemur    |  Easy                     |
+| 002   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)     | [Solution](solutions/002_users_third_transaction.md)  | DataLemur    |  Medium                     |
 
 ## License
 

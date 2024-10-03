@@ -24,11 +24,12 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
 | Day   | Title                                                                                  | Solution  | Site        | Difficulty  | N2SELF                |
 | ----- | -------------------------------------------------------------------------------------- | --------- | ----------- | ----------- | --------------------- |
-| 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)            | [Solution](solutions/001_histogram_of_tweets.md)  | DataLemur    | Easy  |  |
-| 002   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)      | [Solution](solutions/002_users_third_transaction.md)  | DataLemur    | Medium  |  |
-| 003   | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)     | [Solution](solutions/003_second_highest_salary.md)  | DataLemur    | Medium  |  |
-| 004   | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)          | [Solution](solutions/004_sending_vs_opening_snaps.md)  | DataLemur    | Medium  | `FILTER()`  |
-| 005   | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)         | [Solution](solutions/005_highest-grossing_items.md)  | DataLemur    | Medium  | `RANK()` vs `DENSE_RANK`|
+| 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)            | [Solution](solutions/001_histogram_of_tweets.md)  | DataLemur  | Easy  |  |
+| 002   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)      | [Solution](solutions/002_users_third_transaction.md)  | DataLemur  | Medium  |  |
+| 003   | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)     | [Solution](solutions/003_second_highest_salary.md)  | DataLemur  | Medium  |  |
+| 004   | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)          | [Solution](solutions/004_sending_vs_opening_snaps.md)  | DataLemur  | Medium  | `FILTER()`  |
+| 005   | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)         | [Solution](solutions/005_highest-grossing_items.md)  | DataLemur  | Medium  | `RANK()` vs `DENSE_RANK`  |
+| 006   | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)           | [Solution](solutions/006_top_three_salaries.md)  | DataLemur  | Medium  |   |
 
 ## License
 

@@ -1,4 +1,4 @@
-# SQL-EVERYDAY
+# SQL Everyday
 
 One SQL problem a day for a year
 

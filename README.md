@@ -30,7 +30,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 004   | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)          | [Solution](solutions/004_sending_vs_opening_snaps.md)  | DataLemur  | Medium  | `FILTER()`  |
 | 005   | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)         | [Solution](solutions/005_highest-grossing_items.md)  | DataLemur  | Medium  | `RANK()` vs `DENSE_RANK`  |
 | 006   | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)           | [Solution](solutions/006_top_three_salaries.md)  | DataLemur  | Medium  |   |
-| 006   | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank)                         | [Solution](solutions/007_top_5_artists.md)  | DataLemur  | Medium  |   |
+| 007   | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank)                         | [Solution](solutions/007_top_5_artists.md)  | DataLemur  | Medium  |   |
 
 ## License
 

@@ -32,6 +32,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 006   | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)           | [Solution](solutions/006_top_three_salaries.md)  | DataLemur  | Medium  |   |
 | 007   | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank)                         | [Solution](solutions/007_top_5_artists.md)  | DataLemur  | Medium  |   |
 | 008   | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)     | [Solution](solutions/008_signup_activation_rate.md)  | DataLemur  | Medium  |   |
+| 009   | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)             | [Solution](solutions/009_supercloud_customer.md)  | DataLemur  | Medium  |   |
 
 ## License
 

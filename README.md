@@ -33,6 +33,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 007   | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank)                         | [Solution](solutions/007_top_5_artists.md)  | DataLemur  | Medium  |   |
 | 008   | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)     | [Solution](solutions/008_signup_activation_rate.md)  | DataLemur  | Medium  |   |
 | 009   | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)             | [Solution](solutions/009_supercloud_customer.md)  | DataLemur  | Medium  |   |
+| 010   | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)     | [Solution](solutions/010_odd_and_even_measurements.md)  | DataLemur  | Medium  | `MOD()`  |
 
 ## License
 

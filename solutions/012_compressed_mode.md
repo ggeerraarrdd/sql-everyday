@@ -20,17 +20,18 @@ WHERE order_occurrences = (SELECT MAX(order_occurrences) FROM items_per_order)
 ORDER BY item_count ASC
 ;
 
+
 -- DataLemur Solution 1
-Method #1: Using MAX()
+-- Method #1: Using MAX()
 
 SELECT item_count AS mode
 FROM items_per_order
 WHERE order_occurrences = (SELECT MAX(order_occurrences) FROM items_per_order
 )
 ORDER BY item_count;
-Method #2: Using MODE() WITHIN GROUP ()
 
 -- DataLemur Solution 2
+-- Method #2: Using MODE() WITHIN GROUP ()
 SELECT item_count AS mode
 FROM items_per_order
 WHERE order_occurrences = (SELECT MODE() WITHIN GROUP (ORDER BY order_occurrences DESC) FROM items_per_order

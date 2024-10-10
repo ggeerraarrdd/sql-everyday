@@ -36,7 +36,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 010   | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)            | [Solution](solutions/010_odd_and_even_measurements.md) | DataLemur | Medium | `MOD()`  |
 | 011   | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](solutions/011_histogram_of_users_and_purchases.md) | DataLemur | Medium |   |
 | 012   | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                    | [Solution](solutions/012_compressed_mode.md) | DataLemur | Medium | `MODE()`  |
-| 013   | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                    | [Solution](solutions/013_card_launch_success.md) | DataLemur | Medium | `MODE()`  |
+| 013   | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                    | [Solution](solutions/013_card_launch_success.md) | DataLemur | Medium |   |
 
 ## License
 

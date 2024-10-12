@@ -38,6 +38,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 012   | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                     | [Solution](solutions/012_compressed_mode.md) | DataLemur | Medium | `MODE()`  |
 | 013   | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                     | [Solution](solutions/013_card_launch_success.md) | DataLemur | Medium |   |
 | 014   | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](solutions/014_international_call_percentage.md) | DataLemur | Medium |   |
+| 015   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                    | [Solution](solutions/015_histogram_of_tweets.md) | DataLemur | Easy | `EXTRACT()` vs `BETWEEN`  |
 
 ## License
 

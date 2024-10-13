@@ -39,7 +39,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 013   | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                          | [Solution](solutions/013_card_launch_success.md) | DataLemur | Medium |   |
 | 014   | [International Call Percentage](https://datalemur.com/questions/international-call-percentage)      | [Solution](solutions/014_international_call_percentage.md) | DataLemur | Medium |   |
 | 015   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                         | [Solution](solutions/015_histogram_of_tweets.md) | DataLemur | Easy | `EXTRACT()` vs `BETWEEN`  |
-| 016   | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](solutions/016_patient_support_analysis_part_2.md) | DataLemur | Easy |   |
+| 016   | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](solutions/016_patient_support_analysis_part_2.md) | DataLemur | Medium |   |
 
 ## License
 

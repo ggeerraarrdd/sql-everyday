@@ -22,23 +22,24 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
 ## Contents
 
-| Day   | Title                                                                                          | Solution  | Site        | Difficulty  | N2SELF               |
-| ----- | ---------------------------------------------------------------------------------------------- | --------- | ----------- | ----------- | -------------------- |
-| 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                    | [Solution](solutions/001_histogram_of_tweets.md) | DataLemur | Easy |  |
-| 002   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)              | [Solution](solutions/002_users_third_transaction.md) | DataLemur | Medium |  |
-| 003   | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)             | [Solution](solutions/003_second_highest_salary.md) | DataLemur | Medium |  |
-| 004   | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)                  | [Solution](solutions/004_sending_vs_opening_snaps.md) | DataLemur | Medium | `FILTER()`  |
-| 005   | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)                 | [Solution](solutions/005_highest-grossing_items.md) | DataLemur | Medium | `RANK()` vs `DENSE_RANK`  |
-| 006   | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)                   | [Solution](solutions/006_top_three_salaries.md) | DataLemur  | Medium |   |
-| 007   | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank)                                 | [Solution](solutions/007_top_5_artists.md) | DataLemur  | Medium |   |
-| 008   | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)             | [Solution](solutions/008_signup_activation_rate.md) | DataLemur | Medium |   |
-| 009   | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)                     | [Solution](solutions/009_supercloud_customer.md) | DataLemur | Medium |   |
-| 010   | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)             | [Solution](solutions/010_odd_and_even_measurements.md) | DataLemur | Medium | `MOD()`  |
-| 011   | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases)  | [Solution](solutions/011_histogram_of_users_and_purchases.md) | DataLemur | Medium |   |
-| 012   | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                     | [Solution](solutions/012_compressed_mode.md) | DataLemur | Medium | `MODE()`  |
-| 013   | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                     | [Solution](solutions/013_card_launch_success.md) | DataLemur | Medium |   |
-| 014   | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](solutions/014_international_call_percentage.md) | DataLemur | Medium |   |
-| 015   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                    | [Solution](solutions/015_histogram_of_tweets.md) | DataLemur | Easy | `EXTRACT()` vs `BETWEEN`  |
+| Day   | Title                                                                                               | Solution  | Site        | Difficulty  | N2SELF               |
+| ----- | --------------------------------------------------------------------------------------------------- | --------- | ----------- | ----------- | -------------------- |
+| 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                         | [Solution](solutions/001_histogram_of_tweets.md) | DataLemur | Easy |  |
+| 002   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)                   | [Solution](solutions/002_users_third_transaction.md) | DataLemur | Medium |  |
+| 003   | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)                  | [Solution](solutions/003_second_highest_salary.md) | DataLemur | Medium |  |
+| 004   | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)                       | [Solution](solutions/004_sending_vs_opening_snaps.md) | DataLemur | Medium | `FILTER()`  |
+| 005   | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)                      | [Solution](solutions/005_highest-grossing_items.md) | DataLemur | Medium | `RANK()` vs `DENSE_RANK`  |
+| 006   | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)                        | [Solution](solutions/006_top_three_salaries.md) | DataLemur  | Medium |   |
+| 007   | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank)                                      | [Solution](solutions/007_top_5_artists.md) | DataLemur  | Medium |   |
+| 008   | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)                  | [Solution](solutions/008_signup_activation_rate.md) | DataLemur | Medium |   |
+| 009   | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)                          | [Solution](solutions/009_supercloud_customer.md) | DataLemur | Medium |   |
+| 010   | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)                  | [Solution](solutions/010_odd_and_even_measurements.md) | DataLemur | Medium | `MOD()`  |
+| 011   | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases)       | [Solution](solutions/011_histogram_of_users_and_purchases.md) | DataLemur | Medium |   |
+| 012   | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                          | [Solution](solutions/012_compressed_mode.md) | DataLemur | Medium | `MODE()`  |
+| 013   | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                          | [Solution](solutions/013_card_launch_success.md) | DataLemur | Medium |   |
+| 014   | [International Call Percentage](https://datalemur.com/questions/international-call-percentage)      | [Solution](solutions/014_international_call_percentage.md) | DataLemur | Medium |   |
+| 015   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                         | [Solution](solutions/015_histogram_of_tweets.md) | DataLemur | Easy | `EXTRACT()` vs `BETWEEN`  |
+| 016   | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](solutions/016_patient_support_analysis_part_2.md) | DataLemur | Easy |   |
 
 ## License
 

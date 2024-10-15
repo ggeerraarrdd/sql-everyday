@@ -40,7 +40,8 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 014   | [International Call Percentage](https://datalemur.com/questions/international-call-percentage)      | [Solution](solutions/014_international_call_percentage.md) | DataLemur | Medium |   |
 | 015   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                         | [Solution](solutions/015_histogram_of_tweets.md) | DataLemur | Easy | `EXTRACT()` vs `BETWEEN`  |
 | 016   | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](solutions/016_patient_support_analysis_part_2.md) | DataLemur | Medium |   |
-| 017   | [Active User Retention)](https://datalemur.com/questions/user-retention)                            | [Solution](solutions/017_active_user_retention.md) | DataLemur | Hard |   |
+| 017   | [Active User Retention](https://datalemur.com/questions/user-retention)                             | [Solution](solutions/017_active_user_retention.md) | DataLemur | Hard |   |
+| 018   | [Data Science Skills](https://datalemur.com/questions/matching-skills)                              | [Solution](solutions/018_data_science_skills.md) | DataLemur | Easy |   |
 
 ## License
 

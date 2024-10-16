@@ -42,7 +42,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 016   | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](solutions/016_patient_support_analysis_part_2.md) | DataLemur | Medium |   |
 | 017   | [Active User Retention](https://datalemur.com/questions/user-retention)                             | [Solution](solutions/017_active_user_retention.md) | DataLemur | Hard |   |
 | 018   | [Data Science Skills](https://datalemur.com/questions/matching-skills)                              | [Solution](solutions/018_data_science_skills.md) | DataLemur | Easy |   |
-| 019   | [FAANG Stock Min-Max (Part 1)]((https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)      | [Solution](solutions/019_faang_stack_min-max_part_1.md) | DataLemur | Medium |   |
+| 019   | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)       | [Solution](solutions/019_faang_stack_min-max_part_1.md) | DataLemur | Medium |   |
 
 ## License
 

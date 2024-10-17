@@ -43,6 +43,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 017   | [Active User Retention](https://datalemur.com/questions/user-retention)                             | [Solution](solutions/017_active_user_retention.md) | DataLemur | Hard |   |
 | 018   | [Data Science Skills](https://datalemur.com/questions/matching-skills)                              | [Solution](solutions/018_data_science_skills.md) | DataLemur | Easy |   |
 | 019   | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)       | [Solution](solutions/019_faang_stack_min-max_part_1.md) | DataLemur | Medium |   |
+| 020   | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)                               | [Solution](solutions/020_y-on-y_growth_rate.md) | DataLemur | Hard |   |
 
 ## License
 

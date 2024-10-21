@@ -46,6 +46,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 020   | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)                               | [Solution](solutions/020_y-on-y_growth_rate.md) | DataLemur | Hard | `LAG()`  |
 | 021   | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)                        | [Solution](solutions/021_page_with_no_likes.md) | DataLemur | Easy |   |
 | 022   | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery)                  | [Solution](solutions/022_swapped_food_delivery.md) | DataLemur | Medium |   |
+| 023   | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq)                | [Solution](solutions/023_median_google_search_frequency.md) | DataLemur | Hard | `GENERATE_SERIES()`, `PERCENTILE_CONT()`  |
 
 ## License
 

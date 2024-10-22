@@ -48,6 +48,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 022   | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery)                  | [Solution](solutions/022_swapped_food_delivery.md) | DataLemur | Medium |   |
 | 023   | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq)                | [Solution](solutions/023_median_google_search_frequency.md) | DataLemur | Hard | `GENERATE_SERIES()`, `PERCENTILE_CONT()`  |
 | 024   | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)                          | [Solution](solutions/024_unfinished_parts.md) | DataLemur | Easy |   |
+| 025   | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product)                    | [Solution](solutions/025_fill_missing_client_data.md) | DataLemur | Medium | `FIRST_VALUE()`  |
 
 ## License
 

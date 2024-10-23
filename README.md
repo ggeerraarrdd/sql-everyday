@@ -20,6 +20,17 @@ These resources were chosen because they have an integrated database environment
 
 ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
+## Getting Started
+
+### Dependencies
+
+* See `requirements.txt`
+
+### Usage
+
+* To automatically create a new solution file, open [`solution.ipynb`](templates/solution.ipynb) in the `templates` directory and follow instructions.
+* To check out submitted solutions and how they compare to those provided by the site, see `Contents` below.
+
 ## Contents
 
 | Day   | Title                                                                                               | Solution  | Site        | Difficulty  | N2SELF               |
@@ -50,6 +61,20 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 024   | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)                          | [Solution](solutions/024_unfinished_parts.md) | DataLemur | Easy |   |
 | 025   | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product)                    | [Solution](solutions/025_fill_missing_client_data.md) | DataLemur | Medium | `FIRST_VALUE()`  |
 | 026   | [Advertiser Status](https://datalemur.com/questions/updated-status)                                 | [Solution](solutions/026_advertiser_status.md) | DataLemur | Hard |   |
+
+## Authors
+
+* [@ggeerraarrdd](https://github.com/ggeerraarrdd/)
+
+## Version History
+
+### Release Notes
+
+* See [https://github.com/ggeerraarrdd/sql-everyday/releases](https://github.com/ggeerraarrdd/sql-everyday/releases)
+
+### Future Work
+
+TBD
 
 ## License
 

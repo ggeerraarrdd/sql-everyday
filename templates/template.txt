@@ -1,0 +1,31 @@
+# SQL Everyday \#{{ day }}
+
+## {{ title }}
+
+Site: {{ site }}\
+Difficulty per Site: {{ difficulty }}
+
+## Problem
+
+{{ problem }} [[Full Description]({{ url }})]
+
+## Submitted Solution
+
+```sql
+-- Submitted Solution
+{{ submitted_solution }}
+```
+
+## Site Solution
+
+```sql
+-- {{ site }} Solution 
+{{ site_solution }}
+```
+
+## Notes
+
+{{ notes }}
+
+Go to [Table of Contents](/README.md#contents)\
+Go to [Overview](/README.md){{ lastline }}

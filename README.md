@@ -4,14 +4,16 @@ One SQL problem a day for a year
 
 ## Description
 
-_SQL Everyday_ is a personal daily challenge for the next 365 days, starting from September 28, 2024, to solve at least one SQL problem. The problems are selected from various websites devoted to online learning and technical job interview preparations. 
+_SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024. 
 
-Below is a current list of these websites. Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
+The problems are selected from various websites devoted to online learning and technical job interview preparations. Below is a current list of these websites.
 
 * [Codewars](https://www.codewars.com/)
 * [DataCamp](https://www.datacamp.com/)
 * [DataLemur](https://datalemur.com/)
 * [LeetCode](https://leetcode.com/)
+
+Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
 All submitted solutions are then stored in this repo in their own markdown file. To make it easier to create each file as well as update the [Contents](#contents) section here, there is a [Jupyter notebook to automate that process](templates/solution.ipynb).
 

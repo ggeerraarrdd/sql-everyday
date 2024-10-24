@@ -15,7 +15,9 @@ The problems are selected from various websites devoted to online learning and t
 
 Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
-All submitted solutions are then stored in this repo in their own markdown file. To make it easier to create each file as well as update the [Contents](#contents) section here, there is a [Jupyter notebook to automate that process](templates/solution.ipynb).
+All submitted solutions are then stored in this repo in their own markdown file. See the [Contents](#contents) section below for an index of those solutions.
+
+To make the daily tasks of creating a new file and updating the index easier, there is a [Jupyter notebook to automate that process](templates/solution.ipynb).
 
 ![Coeus](resources/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)

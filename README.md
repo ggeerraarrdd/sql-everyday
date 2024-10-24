@@ -4,7 +4,7 @@ One SQL problem a day for a year
 
 ## Description
 
-_SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024. 
+_SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
 The problems are selected from various websites devoted to online learning and technical job interview preparations. Below is a current list of these websites.
 
@@ -67,6 +67,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 024   | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)                          | [Solution](solutions/024_unfinished_parts.md) | DataLemur | Easy |   |
 | 025   | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product)                    | [Solution](solutions/025_fill_missing_client_data.md) | DataLemur | Medium | `FIRST_VALUE()`  |
 | 026   | [Advertiser Status](https://datalemur.com/questions/updated-status)                                 | [Solution](solutions/026_advertiser_status.md) | DataLemur | Hard |   |
+| 027   | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)            | [Solution](solutions/027_laptop_vs_mobile_viewership.md) | DataLemur | Easy |   |
 
 ## Authors
 

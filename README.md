@@ -68,6 +68,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 025   | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product)                    | [Solution](solutions/025_fill_missing_client_data.md) | DataLemur | Medium | `FIRST_VALUE()`  |
 | 026   | [Advertiser Status](https://datalemur.com/questions/updated-status)                                 | [Solution](solutions/026_advertiser_status.md) | DataLemur | Hard |   |
 | 027   | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)            | [Solution](solutions/027_laptop_vs_mobile_viewership.md) | DataLemur | Easy |   |
+| 028   | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)              | [Solution](solutions/028_spotify_streaming_history.md) | DataLemur | Medium |   |
 
 ## Authors
 

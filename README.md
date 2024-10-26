@@ -69,7 +69,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 026   | [Advertiser Status](https://datalemur.com/questions/updated-status)                                 | [Solution](solutions/026_advertiser_status.md) | DataLemur | Hard |   |
 | 027   | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)            | [Solution](solutions/027_laptop_vs_mobile_viewership.md) | DataLemur | Easy |   |
 | 028   | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)              | [Solution](solutions/028_spotify_streaming_history.md) | DataLemur | Medium |   |
-| 029   | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years)                | [Solution](solutions/034_consecutive_filing_years.md) | DataLemur | Hard |   |
+| 029   | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years)                | [Solution](solutions/029_consecutive_filing_years.md) | DataLemur | Hard |   |
 
 ## Authors
 

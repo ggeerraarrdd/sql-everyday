@@ -71,6 +71,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 028   | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)              | [Solution](solutions/028_spotify_streaming_history.md) | DataLemur | Medium |   |
 | 029   | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years)                | [Solution](solutions/029_consecutive_filing_years.md) | DataLemur | Hard |   |
 | 030   | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1)           | [Solution](solutions/030_average_post_hiatus_part_1.md) | DataLemur | Easy |   |
+| 031   | [Mean, Median, Mode](https://datalemur.com/questions/mean-median-mode)                              | [Solution](solutions/031_mean_median_mode.md) | DataLemur | Medium | `PERCENTILE_CONT()`  |
 
 ## Authors
 

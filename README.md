@@ -74,6 +74,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 031   | [Mean, Median, Mode](https://datalemur.com/questions/mean-median-mode)                              | [Solution](solutions/031_mean_median_mode.md) | DataLemur | Medium | `PERCENTILE_CONT()`  |
 | 032   | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak)                    | [Solution](solutions/032_marketing_touch_streak.md) | DataLemur | Hard |   |
 | 033   | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                              | [Solution](solutions/033_teams_power_users.md) | DataLemur | Easy |   |
+| 034   | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold)                       | [Solution](solutions/034_pharmacy_analytics_part_4.md) | DataLemur | Medium |   |
 
 ## Authors
 

@@ -75,6 +75,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 032   | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak)                    | [Solution](solutions/032_marketing_touch_streak.md) | DataLemur | Hard |   |
 | 033   | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                              | [Solution](solutions/033_teams_power_users.md) | DataLemur | Easy |   |
 | 034   | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold)                       | [Solution](solutions/034_pharmacy_analytics_part_4.md) | DataLemur | Medium |   |
+| 035   | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost)                             | [Solution](solutions/035_3topping_pizzas.md) | DataLemur | Hard |   |
 
 ## Authors
 

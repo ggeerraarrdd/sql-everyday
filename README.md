@@ -78,6 +78,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 035   | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost)                             | [Solution](solutions/035_3topping_pizzas.md) | DataLemur | Hard |   |
 | 036   | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)                      | [Solution](solutions/034_well_paid_employees.md) | DataLemur | Easy  |   |
 | 037   | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs)            | [Solution](solutions/037_frequently_purchased_pairs.md) | DataLemur | Medium | `ARRAY_AGG()`, `ARRAY_LENGTH()`  |
+| 038   | [Department vs. Company Salary](https://datalemur.com/questions/sql-department-company-salary-comparison)  | [Solution](solutions/038_department_vs_company_salary.md) | DataLemur | Hard |   |
 
 ## Authors
 

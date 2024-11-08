@@ -82,6 +82,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 039   | [Final Account Balance](https://datalemur.com/questions/final-account-balance)                      | [Solution](solutions/039_final_account_balance.md) | DataLemur | Easy |   |
 | 040   | [Booking Referral Source](https://datalemur.com/questions/booking-referral-source)                  | [Solution](solutions/040_booking_referral_source.md) | DataLemur | Medium |   |
 | 041   | [Compressed Median](https://datalemur.com/questions/alibaba-compressed-median)                      | [Solution](solutions/041_compressed_median.md) | DataLemur | Hard | `GENERATE_SERIES()`, `PERCENTILE_CONT()`  |
+| 042   | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax)                    | [Solution](solutions/042_quickbooks_vs_turbotax.md) | DataLemur | Easy |   |
 
 ## Authors
 

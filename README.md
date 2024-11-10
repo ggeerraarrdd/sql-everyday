@@ -83,6 +83,8 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 040   | [Booking Referral Source](https://datalemur.com/questions/booking-referral-source)                  | [Solution](solutions/040_booking_referral_source.md) | DataLemur | Medium |   |
 | 041   | [Compressed Median](https://datalemur.com/questions/alibaba-compressed-median)                      | [Solution](solutions/041_compressed_median.md) | DataLemur | Hard | `GENERATE_SERIES()`, `PERCENTILE_CONT()`  |
 | 042   | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax)                    | [Solution](solutions/042_quickbooks_vs_turbotax.md) | DataLemur | Easy |   |
+| 043   | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree)                       | [Solution](solutions/043_user_shopping_sprees.md) | DataLemur | Medium |   |
+| 044   | [Average Vacant Days](https://datalemur.com/questions/average-vacant-days)                          | [Solution](solutions/044_average_vacant_days.md) | DataLemur | Hard |   |
 
 ## Authors
 

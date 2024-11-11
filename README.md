@@ -85,6 +85,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 042   | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax)                    | [Solution](solutions/042_quickbooks_vs_turbotax.md) | DataLemur | Easy |   |
 | 043   | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree)                       | [Solution](solutions/043_user_shopping_sprees.md) | DataLemur | Medium |   |
 | 044   | [Average Vacant Days](https://datalemur.com/questions/average-vacant-days)                          | [Solution](solutions/044_average_vacant_days.md) | DataLemur | Hard |   |
+| 045   | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)                  | [Solution](solutions/045_app_click_through_rate_ctr.md) | DataLemur | Easy |   |
 
 ## Authors
 

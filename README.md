@@ -88,6 +88,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 045   | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)                  | [Solution](solutions/045_app_click_through_rate_ctr.md) | DataLemur | Easy |   |
 | 046   | [2nd Ride Delay](https://datalemur.com/questions/2nd-ride-delay)                                    | [Solution](solutions/046_2nd_ride_delay.md) | DataLemur | Medium |   |
 | 047   | [Patient Support Analysis (Part 3)](https://datalemur.com/questions/patient-call-history)           | [Solution](solutions/047_patient_support_analysis_part_3.md) | DataLemur | Hard |   |
+| 048   | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation)                  | [Solution](solutions/048_second_day_confirmation.md) | DataLemur | Hard | `INTERVAL`, `DATEADD()`, `DATE_ADD()`  |
 
 ## Authors
 

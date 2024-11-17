@@ -91,6 +91,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 048   | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation)                  | [Solution](solutions/048_second_day_confirmation.md) | DataLemur | Hard | `INTERVAL`, `DATEADD()`, `DATE_ADD()`  |
 | 049   | [Google Maps Flagged UGC](https://datalemur.com/questions/off-topic-maps-ugc)                       | [Solution](solutions/049_google_maps_flagged_ugc.md) | DataLemur | Medium |   |
 | 050   | [Patient Support Analysis (Part 4)](https://datalemur.com/questions/long-calls-growth)              | [Solution](solutions/050_patient_support_analysis_part_4.md) | DataLemur | Hard |   |
+| 051   | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics)          | [Solution](solutions/051_ibm_db2_product_analytics.md) | DataLemur | Easy | Histogram  |
 
 ## Authors
 

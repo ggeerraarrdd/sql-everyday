@@ -93,6 +93,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 050   | [Patient Support Analysis (Part 4)](https://datalemur.com/questions/long-calls-growth)              | [Solution](solutions/050_patient_support_analysis_part_4.md) | DataLemur | Hard |   |
 | 051   | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics)          | [Solution](solutions/051_ibm_db2_product_analytics.md) | DataLemur | Easy | Histogram  |
 | 052   | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2)   | [Solution](solutions/052_linkedin_power_creators_part_2.md) | DataLemur | Medium |   |
+| 053   | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases)                          | [Solution](solutions/053_same_week_purchases.md) | DataLemur | Hard |   |
 
 ## Authors
 

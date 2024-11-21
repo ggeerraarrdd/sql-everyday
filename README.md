@@ -95,6 +95,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 052   | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2)   | [Solution](solutions/052_linkedin_power_creators_part_2.md) | DataLemur | Medium |   |
 | 053   | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases)                          | [Solution](solutions/053_same_week_purchases.md) | DataLemur | Hard |   |
 | 054   | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)                  | [Solution](solutions/054_cards_issued_difference.md) | DataLemur | Easy |   |
+| 055   | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships)  | [Solution](solutions/055_unique_money_transfer_relationships.md) | DataLemur | Medium | `INTERSECT`  |
 
 ## Authors
 

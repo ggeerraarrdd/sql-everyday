@@ -96,6 +96,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 053   | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases)                          | [Solution](solutions/053_same_week_purchases.md) | DataLemur | Hard |   |
 | 054   | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)                  | [Solution](solutions/054_cards_issued_difference.md) | DataLemur | Easy |   |
 | 055   | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships)  | [Solution](solutions/055_unique_money_transfer_relationships.md) | DataLemur | Medium | `INTERSECT`  |
+| 056   | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage)          | [Solution](solutions/056_follow_up_airpod_percentage.md) | DataLemur | Hard |   |
 
 ## Authors
 

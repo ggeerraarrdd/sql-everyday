@@ -97,6 +97,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 054   | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)                         | [Solution](solutions/054_cards_issued_difference.md) | DataLemur | Easy |   |
 | 055   | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships)        | [Solution](solutions/055_unique_money_transfer_relationships.md) | DataLemur | Medium | `INTERSECT`  |
 | 056   | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage)                 | [Solution](solutions/056_follow_up_airpod_percentage.md) | DataLemur | Hard |   |
+| 057   | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                                 | [Solution](solutions/057_compressed_mean.md) | DataLemur | Easy |   |
 
 ## Authors
 

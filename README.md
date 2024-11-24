@@ -98,6 +98,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 055   | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships)        | [Solution](solutions/055_unique_money_transfer_relationships.md) | DataLemur | Medium | `INTERSECT`  |
 | 056   | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage)                 | [Solution](solutions/056_follow_up_airpod_percentage.md) | DataLemur | Hard |   |
 | 057   | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                                 | [Solution](solutions/057_compressed_mean.md) | DataLemur | Easy |   |
+| 058   | [User Session Activity](https://datalemur.com/questions/user-session-activity)                             | [Solution](solutions/058_user_session_activity.md) | DataLemur | Medium |   |
 
 ## Authors
 

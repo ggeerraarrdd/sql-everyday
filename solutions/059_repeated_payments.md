@@ -1,4 +1,4 @@
-# SQL Everyday \#060
+# SQL Everyday \#059
 
 ## Repeated Payments
 

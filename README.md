@@ -100,6 +100,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 057   | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                                 | [Solution](solutions/057_compressed_mean.md)                     | DataLemur  | Easy        |   |
 | 058   | [User Session Activity](https://datalemur.com/questions/user-session-activity)                             | [Solution](solutions/058_user_session_activity.md)               | DataLemur  | Medium      |   |
 | 059   | [Repeated Payments](https://datalemur.com/questions/repeated-payments)                                     | [Solution](solutions/059_repeated_payments.md)                   | DataLemur  | Hard        | `EXTRACT` w/ `EPOCH`  |
+| 060   | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)                        | [Solution](solutions/060_pharmacy_analytics_part_1.md)           | DataLemur  | Easy        |   |
 
 ## Authors
 

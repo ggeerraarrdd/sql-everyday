@@ -103,6 +103,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 060   | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)                             | [Solution](solutions/060_pharmacy_analytics_part_1.md)             | DataLemur   | Easy         |   |
 | 061   | [First Transaction](https://datalemur.com/questions/sql-first-transaction)                                      | [Solution](solutions/061_first_transaction.md)                     | DataLemur   | Medium       |   |
 | 062   | [FAANG Underperforming Stocks (Part 3)](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks)   | [Solution](solutions/062_faang_underperforming_stocks_part_3.md)   | DataLemur   | Hard         |   |
+| 063   | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs)                             | [Solution](solutions/063_pharmacy_analytics_part_2.md)             | DataLemur   | Easy         |   |
 
 ## Authors
 

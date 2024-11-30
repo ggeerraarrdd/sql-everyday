@@ -104,6 +104,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 061   | [First Transaction](https://datalemur.com/questions/sql-first-transaction)                                      | [Solution](solutions/061_first_transaction.md)                     | DataLemur   | Medium       |   |
 | 062   | [FAANG Underperforming Stocks (Part 3)](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks)   | [Solution](solutions/062_faang_underperforming_stocks_part_3.md)   | DataLemur   | Hard         |   |
 | 063   | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs)                             | [Solution](solutions/063_pharmacy_analytics_part_2.md)             | DataLemur   | Easy         |   |
+| 064   | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation)                        | [Solution](solutions/064_email_table_transformation.md)            | DataLemur   | Medium       |   |
 
 ## Authors
 

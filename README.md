@@ -107,6 +107,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 064   | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation)                        | [Solution](solutions/064_email_table_transformation.md)            | DataLemur   | Medium       |   |
 | 065   | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions)                            | [Solution](solutions/065_user_concurrent_sessions.md)              | DataLemur   | Hard         |   |
 | 066   | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales)                                | [Solution](solutions/066_pharmacy_analytics_part_3.md)             | DataLemur   | Easy         |   |
+| 067   | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis)                        | [Solution](solutions/067_photoshop_revenue_analysis.md)            | DataLemur   | Medium       |   |
 
 ## Authors
 

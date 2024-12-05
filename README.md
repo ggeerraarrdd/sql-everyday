@@ -109,6 +109,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 066   | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales)                                | [Solution](solutions/066_pharmacy_analytics_part_3.md)             | DataLemur   | Easy         |   |
 | 067   | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis)                        | [Solution](solutions/067_photoshop_revenue_analysis.md)            | DataLemur   | Medium       |   |
 | 068   | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance)                        | [Solution](solutions/068_monthly_merchant_balance.md)              | DataLemur   | Hard         | `PARTITION BY` w/ `DATE_TRUNC()`  |
+| 069   | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers)                           | [Solution](solutions/069_patient_support_analysis_part_1.md)       | DataLemur   | Easy         |   |
 
 ## Authors
 

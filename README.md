@@ -112,6 +112,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 069   | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers)                           | [Solution](solutions/069_patient_support_analysis_part_1.md)       | DataLemur   | Easy         |   |
 | 070   | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time)                                  | [Solution](solutions/070_consulting_bench_time.md)                 | DataLemur   | Medium       |   |
 | 071   | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience)                                         | [Solution](solutions/071_bad_delivery_rate.md)                     | DataLemur   | Hard         |   |
+| 072   | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase)                              | [Solution](solutions/072_most_expensive_purchase.md)               | DataLemur   | Easy         |   |
 
 ## Authors
 

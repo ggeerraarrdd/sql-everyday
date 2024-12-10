@@ -114,6 +114,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 071   | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience)                                         | [Solution](solutions/071_bad_delivery_rate.md)                     | DataLemur   | Hard         |   |
 | 072   | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase)                              | [Solution](solutions/072_most_expensive_purchase.md)               | DataLemur   | Easy         |   |
 | 073   | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation)                              | [Solution](solutions/073_sales_team_compensation.md)               | DataLemur   | Medium       |   |
+| 074   | [Page Recommendation](https://datalemur.com/questions/page-recommendation)                                      | [Solution](solutions/074_page_recommendation.md)                   | DataLemur   | Hard         |   |
 
 ## Authors
 

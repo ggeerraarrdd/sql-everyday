@@ -115,6 +115,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 072   | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase)                              | [Solution](solutions/072_most_expensive_purchase.md)               | DataLemur   | Easy         |   |
 | 073   | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation)                              | [Solution](solutions/073_sales_team_compensation.md)               | DataLemur   | Medium       |   |
 | 074   | [Page Recommendation](https://datalemur.com/questions/page-recommendation)                                      | [Solution](solutions/074_page_recommendation.md)                   | DataLemur   | Hard         |   |
+| 075   | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume)                                             | [Solution](solutions/075_applepay_volume.md)                       | DataLemur   | Easy         |   |
 
 ## Authors
 

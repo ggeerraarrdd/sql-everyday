@@ -118,6 +118,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 075   | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume)                                             | [Solution](solutions/075_applepay_volume.md)                       | DataLemur   | Easy         |   |
 | 076   | [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2)                           | [Solution](solutions/076_average_deal_size_part_2.md)              | DataLemur   | Medium       |   |
 | 077   | [Reactivated Users](https://datalemur.com/questions/reactivated-users)                                          | [Solution](solutions/077_reactivated_users.md)                     | DataLemur   | Hard         |   |
+| 078   | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts)                                | [Solution](solutions/078_subject_matter_experts.md)                | DataLemur   | Easy         |   |
 
 ## Authors
 

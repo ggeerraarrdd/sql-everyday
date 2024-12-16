@@ -119,6 +119,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 076   | [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2)                           | [Solution](solutions/076_average_deal_size_part_2.md)              | DataLemur   | Medium       |   |
 | 077   | [Reactivated Users](https://datalemur.com/questions/reactivated-users)                                          | [Solution](solutions/077_reactivated_users.md)                     | DataLemur   | Hard         |   |
 | 078   | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts)                                | [Solution](solutions/078_subject_matter_experts.md)                | DataLemur   | Easy         |   |
+| 079   | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity)                 | [Solution](solutions/079_cumulative_purchases_by_product_type.md)  | DataLemur   | Medium       |   |
 
 ## Authors
 

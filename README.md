@@ -122,6 +122,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 079   | [Cumulative Purchases by Product Type](https://datalemur.com/questions/sql-purchasing-activity)                 | [Solution](solutions/079_cumulative_purchases_by_product_type.md)   | DataLemur   | Medium       |   |
 | 080   | [Senior Managers](https://datalemur.com/questions/senior-managers-reportees)                                    | [Solution](solutions/080_senior_managers.md)                        | DataLemur   | Hard         |   |
 | 081   | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators)                     | [Solution](solutions/081_linkedin_power_creators_part_1.md)         | DataLemur   | Easy         |   |
+| 082   | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct)                                    | [Solution](solutions/082_invalid_search_results.md)                 | DataLemur   | Medium       |   |
 
 ## Authors
 

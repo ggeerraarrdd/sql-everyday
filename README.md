@@ -124,6 +124,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 081   | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators)                     | [Solution](solutions/081_linkedin_power_creators_part_1.md)         | DataLemur   | Easy         |   |
 | 082   | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct)                                    | [Solution](solutions/082_invalid_search_results.md)                 | DataLemur   | Medium       |   |
 | 083   | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec)                               | [Solution](solutions/083_event_friends_recommendation.md)           | DataLemur   | Hard         |   |
+| 084   | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products)                              | [Solution](solutions/084_highest_number_of_products.md)             | DataLemur   | Easy         |   |
 
 ## Authors
 

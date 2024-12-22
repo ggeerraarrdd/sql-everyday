@@ -126,6 +126,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 083   | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec)                               | [Solution](solutions/083_event_friends_recommendation.md)           | DataLemur   | Hard         |   |
 | 084   | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products)                              | [Solution](solutions/084_highest_number_of_products.md)             | DataLemur   | Easy         |   |
 | 085   | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases)                       | [Solution](solutions/085_repeat_purchases_on_multiple_days.md)      | DataLemur   | Medium       | `DATE_TRUNC` vs `::DATE`  |
+| 086   | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities)                          | [Solution](solutions/086_matching_rental_amenities.md)              | DataLemur   | Hard         | `ARRAY_AGG()`  |
 
 ## Authors
 

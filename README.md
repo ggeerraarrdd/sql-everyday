@@ -127,6 +127,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 084   | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products)                              | [Solution](solutions/084_highest_number_of_products.md)             | DataLemur   | Easy         |   |
 | 085   | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases)                       | [Solution](solutions/085_repeat_purchases_on_multiple_days.md)      | DataLemur   | Medium       | `DATE_TRUNC` vs `::DATE`  |
 | 086   | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities)                          | [Solution](solutions/086_matching_rental_amenities.md)              | DataLemur   | Hard         | `ARRAY_AGG()`  |
+| 087   | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity)                              | [Solution](solutions/087_spare_server_capacity.md)                  | DataLemur   | Easy         |   |
 
 ## Authors
 

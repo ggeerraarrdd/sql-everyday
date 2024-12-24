@@ -128,6 +128,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 085   | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases)                       | [Solution](solutions/085_repeat_purchases_on_multiple_days.md)      | DataLemur   | Medium       | `DATE_TRUNC` vs `::DATE`  |
 | 086   | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities)                          | [Solution](solutions/086_matching_rental_amenities.md)              | DataLemur   | Hard         | `ARRAY_AGG()`  |
 | 087   | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity)                              | [Solution](solutions/087_spare_server_capacity.md)                  | DataLemur   | Easy         |   |
+| 088   | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers)                                  | [Solution](solutions/088_compensation_outliers.md)                  | DataLemur   | Medium       |   |
 
 ## Authors
 

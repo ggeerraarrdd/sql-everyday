@@ -130,6 +130,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 087   | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity)                              | [Solution](solutions/087_spare_server_capacity.md)                  | DataLemur   | Easy         |   |
 | 088   | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers)                                  | [Solution](solutions/088_compensation_outliers.md)                  | DataLemur   | Medium       |   |
 | 089   | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses)                                      | [Solution](solutions/089_top_rated_businesses.md)                   | DataLemur   | Easy         |   |
+| 090   | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas)                                            | [Solution](solutions/090_ad_campaign_roas.md)                       | DataLemur   | Easy         |   |
 
 ## Authors
 

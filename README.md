@@ -131,6 +131,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 088   | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers)                                  | [Solution](solutions/088_compensation_outliers.md)                  | DataLemur   | Medium       |   |
 | 089   | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses)                                      | [Solution](solutions/089_top_rated_businesses.md)                   | DataLemur   | Easy         |   |
 | 090   | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas)                                            | [Solution](solutions/090_ad_campaign_roas.md)                       | DataLemur   | Easy         |   |
+| 091   | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line)                                 | [Solution](solutions/091_product_line_revenue.md)                   | DataLemur   | Easy         |   |
 
 ## Authors
 

@@ -132,6 +132,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 089   | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses)                                      | [Solution](solutions/089_top_rated_businesses.md)                   | DataLemur   | Easy         |   |
 | 090   | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas)                                            | [Solution](solutions/090_ad_campaign_roas.md)                       | DataLemur   | Easy         |   |
 | 091   | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line)                                 | [Solution](solutions/091_product_line_revenue.md)                   | DataLemur   | Easy         |   |
+| 092   | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts)                                            | [Solution](solutions/092_trade_in_payouts.md)                       | DataLemur   | Easy         |   |
 
 ## Authors
 

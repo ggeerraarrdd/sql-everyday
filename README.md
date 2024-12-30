@@ -134,6 +134,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 091   | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line)                                 | [Solution](solutions/091_product_line_revenue.md)                   | DataLemur   | Easy         |   |
 | 092   | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts)                                            | [Solution](solutions/092_trade_in_payouts.md)                       | DataLemur   | Easy         |   |
 | 093   | [Webinar Popularity](https://datalemur.com/questions/snowflake-webinar-popularity)                              | [Solution](solutions/093_webinar_popularity.md)                     | DataLemur   | Easy         | `DATE_TRUNC()` vs `BETWEEN`  |
+| 094   | [Who Made Quota?](https://datalemur.com/questions/oracle-sales-quota)                                           | [Solution](solutions/094_who_made_quota.md)                         | DataLemur   | Easy         |   |
 
 ## Authors
 

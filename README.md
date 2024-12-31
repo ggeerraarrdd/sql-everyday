@@ -135,6 +135,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 092   | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts)                                            | [Solution](solutions/092_trade_in_payouts.md)                       | DataLemur   | Easy         |   |
 | 093   | [Webinar Popularity](https://datalemur.com/questions/snowflake-webinar-popularity)                              | [Solution](solutions/093_webinar_popularity.md)                     | DataLemur   | Easy         | `DATE_TRUNC()` vs `BETWEEN`  |
 | 094   | [Who Made Quota?](https://datalemur.com/questions/oracle-sales-quota)                                           | [Solution](solutions/094_who_made_quota.md)                         | DataLemur   | Easy         |   |
+| 095   | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)   | [Solution](solutions/095_recyclable_and_low_fat_products.md)        | LeetCode    | Easy         |   |
 
 ## Authors
 

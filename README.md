@@ -138,6 +138,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 095   | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)   | [Solution](solutions/095_recyclable_and_low_fat_products.md)        | LeetCode    | Easy         |   |
 | 096   | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)                       | [Solution](solutions/096_find_customer_referee.md)                  | LeetCode    | Easy         |   |
 | 097   | [Big Countries](https://leetcode.com/problems/big-countries/description/)                                       | [Solution](solutions/097_big_countries.md)                          | LeetCode    | Easy         |   |
+| 098   | [Article Views I](https://leetcode.com/problems/article-views-i/description/)                                   | [Solution](solutions/098_article_views_i.md)                        | LeetCode    | Easy         |   |
 
 ## Authors
 

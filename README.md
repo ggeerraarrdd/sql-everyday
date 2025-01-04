@@ -139,6 +139,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 096   | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)                       | [Solution](solutions/096_find_customer_referee.md)                  | LeetCode    | Easy         |   |
 | 097   | [Big Countries](https://leetcode.com/problems/big-countries/description/)                                       | [Solution](solutions/097_big_countries.md)                          | LeetCode    | Easy         |   |
 | 098   | [Article Views I](https://leetcode.com/problems/article-views-i/description/)                                   | [Solution](solutions/098_article_views_i.md)                        | LeetCode    | Easy         |   |
+| 099   | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)                                     | [Solution](solutions/099_invalid_tweets.md)                         | LeetCode    | Easy         |   |
 
 ## Authors
 

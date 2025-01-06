@@ -141,6 +141,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 098   | [Article Views I](https://leetcode.com/problems/article-views-i/description/)                                                                 | [Solution](solutions/098_article_views_i.md)                                  | LeetCode    | Easy         |   |
 | 099   | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)                                                                   | [Solution](solutions/099_invalid_tweets.md)                                   | LeetCode    | Easy         |   |
 | 100   | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)   | [Solution](solutions/100_replace_employee_id_with_the_unique_identifier.md)   | LeetCode    | Easy         |   |
+| 101   | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)                                               | [Solution](solutions/101_product_sales_analysis_i.md)                         | LeetCode    | Easy         |   |
 
 ## Authors
 

@@ -142,6 +142,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 099   | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)                                                                   | [Solution](solutions/099_invalid_tweets.md)                                   | LeetCode    | Easy         |   |
 | 100   | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)   | [Solution](solutions/100_replace_employee_id_with_the_unique_identifier.md)   | LeetCode    | Easy         |   |
 | 101   | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)                                               | [Solution](solutions/101_product_sales_analysis_i.md)                         | LeetCode    | Easy         |   |
+| 102   | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/)  | [Solution](solutions/102_customer_who_visited_but_did_not_make_any_transactions.md) | LeetCode    | Easy         |   |
 
 ## Authors
 

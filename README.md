@@ -145,6 +145,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 102   | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/)   | [Solution](solutions/102_customer_who_visited_but_did_not_make_any_transactions.md)   | LeetCode    | Easy         |   |
 | 103   | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)                                                                           | [Solution](solutions/103_rising_temperature.md)                                       | LeetCode    | Easy         |   |
 | 104   | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/)                                         | [Solution](solutions/104_average_time_of_process_per_machine.md)                      | LeetCode    | Easy         |   |
+| 105   | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)                                                                                   | [Solution](solutions/105_employee_bonus.md)                                           | LeetCode    | Easy         |   |
 
 ## Authors
 

@@ -147,6 +147,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 104   | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/)                                         | [Solution](solutions/104_average_time_of_process_per_machine.md)                      | LeetCode    | Easy         |   |
 | 105   | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)                                                                                   | [Solution](solutions/105_employee_bonus.md)                                           | LeetCode    | Easy         |   |
 | 106   | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/)                                                             | [Solution](solutions/106_students_and_examinations.md)                                | LeetCode    | Easy         |   |
+| 107   | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/)                                 | [Solution](solutions/107_managers_with_at_least_5_direct_reports.md)                  | LeetCode    | Medium       |   |
 
 ## Authors
 

@@ -148,6 +148,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 105   | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)                                                                                   | [Solution](solutions/105_employee_bonus.md)                                           | LeetCode    | Easy         |   |
 | 106   | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/)                                                             | [Solution](solutions/106_students_and_examinations.md)                                | LeetCode    | Easy         |   |
 | 107   | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/)                                 | [Solution](solutions/107_managers_with_at_least_5_direct_reports.md)                  | LeetCode    | Medium       |   |
+| 108   | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/)                                                                             | [Solution](solutions/108_confirmation_rate.md)                                        | LeetCode    | Medium       |   |
 
 ## Authors
 

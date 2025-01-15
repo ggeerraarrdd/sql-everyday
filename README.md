@@ -150,6 +150,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 107   | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/)                                 | [Solution](solutions/107_managers_with_at_least_5_direct_reports.md)                  | LeetCode    | Medium       |   |
 | 108   | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/)                                                                             | [Solution](solutions/108_confirmation_rate.md)                                        | LeetCode    | Medium       |   |
 | 109   | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                             | [Solution](solutions/109_not_boring_movies.md)                                        | LeetCode    | Easy         |   |
+| 110   | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)                                                                     | [Solution](solutions/110_average_selling_price.md)                                    | LeetCode    | Easy         |   |
 
 ## Authors
 

@@ -81,7 +81,7 @@ def update_readme(entry):
 
     # Get line number to insert new entry
     for i, line in enumerate(lines):
-        if line.strip("\n") == "## Getting Started":
+        if line.strip("\n") == "## Prerequisites":
             position = i - 1
             break
         else:

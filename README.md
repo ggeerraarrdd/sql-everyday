@@ -41,9 +41,9 @@ To make the daily tasks of creating a new file and updating the index easier, th
   * [Initial Release](#initial-release)
 * [Future Work](#future-work)
 * [License](#license)
+* [Contributing](#contributing)
 * [Acknowledgments](#acknowledgments)
 * [Screenshots](#screenshots)
-* [Fronticepiece](#fronticepiece)
 
 ## Features
 
@@ -58,6 +58,8 @@ To make the daily tasks of creating a new file and updating the index easier, th
 * Automated solution file creation and index updating via Jupyter notebook
 
 ## Project Structure
+
+TODO
 
 ## Contents
 
@@ -194,7 +196,7 @@ TODO
 * To automatically create a new solution file, open [`solution.ipynb`](templates/solution.ipynb) in the `templates` directory and follow instructions.
 * To check out submitted solutions and how they compare to those provided by the site, see `Contents` above.
 
-## Authors
+## Author(s)
 
 * [@ggeerraarrdd](https://github.com/ggeerraarrdd/)
 
@@ -215,6 +217,10 @@ TBD
 ## License
 
 * [MIT License](https://github.com/ggeerraarrdd/sql-everyday/blob/main/LICENSE)
+
+## Contributing
+
+This project is not accepting contributions at this time. However, feel free to clone the repository and adapt it for your own SQL learning journey.
 
 ## Acknowledgments
 

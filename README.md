@@ -4,6 +4,9 @@ One SQL problem a day for a year
 
 ## Description
 
+> [!NOTE]
+> ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
 The problems are selected from various websites devoted to online learning and technical job interview preparations. Below is a current list of these websites.
@@ -22,9 +25,39 @@ To make the daily tasks of creating a new file and updating the index easier, th
 ![Coeus](docs/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)
 
-## Disclaimer
+## Table of Contents
 
-ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+* [Description](#description)
+* [Features](#features)
+* [Project Structure](#project-structure)
+* [Prerequisites](#prerequisites)
+* [Getting Started](#getting-started)
+  * [Dependencies](#dependencies)
+  * [Installation](#installation)
+  * [Usage](#usage)
+* [Author(s)](#authors)
+* [Version History](#version-history)
+  * [Release Notes](#release-notes)
+  * [Initial Release](#initial-release)
+* [Future Work](#future-work)
+* [License](#license)
+* [Acknowledgments](#acknowledgments)
+* [Screenshots](#screenshots)
+* [Fronticepiece](#fronticepiece)
+
+## Features
+
+* SQL problem solutions with alternate approaches
+* Regular updates with new problems added daily
+* Problems sourced from multiple platforms including Codewars, DataCamp, DataLemur, and LeetCode
+* Educational focus with all content intended for learning purposes
+* Complementary resource for SQL technical interview preparation
+* Difficulty levels marked for progressive learning
+* Notes on special SQL functions and techniques (N2SELF column)
+* Organized documentation with clear navigation and solution indexing
+* Automated solution file creation and index updating via Jupyter notebook
+
+## Project Structure
 
 ## Contents
 
@@ -142,11 +175,19 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 110   | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)                                                                     | [Solution](solutions/110_average_selling_price.md)                                    | LeetCode    | Easy         |   |
 | 111   | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/)                                                                         | [Solution](solutions/111_project_employees_i.md)                                      | LeetCode    | Easy         |   |
 
+## Prerequisites
+
+TODO
+
 ## Getting Started
 
 ### Dependencies
 
 * See `requirements.txt`
+
+### Installation
+
+TODO
 
 ### Usage
 
@@ -163,7 +204,11 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
 * See [https://github.com/ggeerraarrdd/sql-everyday/releases](https://github.com/ggeerraarrdd/sql-everyday/releases)
 
-### Future Work
+### Initial Release
+
+TODO
+
+## Future Work
 
 TBD
 
@@ -172,6 +217,10 @@ TBD
 * [MIT License](https://github.com/ggeerraarrdd/sql-everyday/blob/main/LICENSE)
 
 ## Acknowledgments
+
+* TODO
+
+## Screenshots
 
 * TODO
 

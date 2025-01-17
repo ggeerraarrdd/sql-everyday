@@ -26,17 +26,6 @@ To make the daily tasks of creating a new file and updating the index easier, th
 
 ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 
-## Getting Started
-
-### Dependencies
-
-* See `requirements.txt`
-
-### Usage
-
-* To automatically create a new solution file, open [`solution.ipynb`](templates/solution.ipynb) in the `templates` directory and follow instructions.
-* To check out submitted solutions and how they compare to those provided by the site, see `Contents` below.
-
 ## Contents
 
 | Day   | Title                                                                                                                                                         | Solution                                                                              | Site        | Difficulty   | N2SELF               |
@@ -76,7 +65,7 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 033   | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                                                                                        | [Solution](solutions/033_teams_power_users.md)                                        | DataLemur   | Easy         |   |
 | 034   | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold)                                                                                 | [Solution](solutions/034_pharmacy_analytics_part_4.md)                                | DataLemur   | Medium       |   |
 | 035   | [3-Topping Pizzas](https://datalemur.com/questions/pizzas-topping-cost)                                                                                       | [Solution](solutions/035_3topping_pizzas.md)                                          | DataLemur   | Hard         |   |
-| 036   | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)                                                                                | [Solution](solutions/034_well_paid_employees.md)                                      | DataLemur   | Easy         |   |
+| 036   | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)                                                                                | [Solution](solutions/036_well_paid_employees.md)                                      | DataLemur   | Easy         |   |
 | 037   | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs)                                                                      | [Solution](solutions/037_frequently_purchased_pairs.md)                               | DataLemur   | Medium       | `ARRAY_AGG()`, `ARRAY_LENGTH()`  |
 | 038   | [Department vs. Company Salary](https://datalemur.com/questions/sql-department-company-salary-comparison)                                                     | [Solution](solutions/038_department_vs_company_salary.md)                             | DataLemur   | Hard         |   |
 | 039   | [Final Account Balance](https://datalemur.com/questions/final-account-balance)                                                                                | [Solution](solutions/039_final_account_balance.md)                                    | DataLemur   | Easy         |   |
@@ -152,6 +141,17 @@ ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
 | 109   | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                             | [Solution](solutions/109_not_boring_movies.md)                                        | LeetCode    | Easy         |   |
 | 110   | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)                                                                     | [Solution](solutions/110_average_selling_price.md)                                    | LeetCode    | Easy         |   |
 | 111   | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/)                                                                         | [Solution](solutions/111_project_employees_i.md)                                      | LeetCode    | Easy         |   |
+
+## Getting Started
+
+### Dependencies
+
+* See `requirements.txt`
+
+### Usage
+
+* To automatically create a new solution file, open [`solution.ipynb`](templates/solution.ipynb) in the `templates` directory and follow instructions.
+* To check out submitted solutions and how they compare to those provided by the site, see `Contents` above.
 
 ## Authors
 

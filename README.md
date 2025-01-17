@@ -176,6 +176,7 @@ TODO
 | 109   | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                             | [Solution](solutions/109_not_boring_movies.md)                                        | LeetCode    | Easy         |   |
 | 110   | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)                                                                     | [Solution](solutions/110_average_selling_price.md)                                    | LeetCode    | Easy         |   |
 | 111   | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/)                                                                         | [Solution](solutions/111_project_employees_i.md)                                      | LeetCode    | Easy         |   |
+| 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |
 
 ## Prerequisites
 
@@ -233,4 +234,3 @@ This project is not accepting contributions at this time. However, feel free to 
 ## Fronticepiece
 
 Plate LXI: 'This proud one / Would of his strength against almighty Jove / Make trial' (Cary). Canto xxxi: Line 82: Page 165. Image taken from Dante Alighieri, Dante's Inferno. Translated by Henry Francis Cary. Illustrated by Gustave Doré. New York, London, and Paris: Cassell & Company Limited, 1866.
-| 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |

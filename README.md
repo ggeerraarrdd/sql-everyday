@@ -19,7 +19,7 @@ All submitted solutions are then stored in this repo in their own markdown file.
 
 To make the daily tasks of creating a new file and updating the index easier, there is a [Jupyter notebook to automate that process](templates/solution.ipynb).
 
-![Coeus](resources/coeus.jpg)
+![Coeus](docs/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)
 
 ## Disclaimer

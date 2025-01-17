@@ -233,3 +233,4 @@ This project is not accepting contributions at this time. However, feel free to 
 ## Fronticepiece
 
 Plate LXI: 'This proud one / Would of his strength against almighty Jove / Make trial' (Cary). Canto xxxi: Line 82: Page 165. Image taken from Dante Alighieri, Dante's Inferno. Translated by Henry Francis Cary. Illustrated by Gustave Doré. New York, London, and Paris: Cassell & Company Limited, 1866.
+| 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |

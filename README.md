@@ -34,6 +34,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 * [Getting Started](#getting-started)
   * [Dependencies](#dependencies)
   * [Installation](#installation)
+  * [Configuration](#configuration)
   * [Usage](#usage)
 * [Author(s)](#authors)
 * [Version History](#version-history)

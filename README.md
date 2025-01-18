@@ -18,74 +18,12 @@ The problems are selected from various websites devoted to online learning and t
 
 Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
-All submitted solutions are then stored in this repo in their own markdown file. See the [Contents](#contents) section below for an index of those solutions.
+All submitted solutions are stored in this repo in their own markdown file. See the [Contents](#contents) section below for an index of those solutions.
 
-To make the daily tasks of creating a new file and updating the index easier, there is a [Jupyter notebook to automate that process](templates/solution.ipynb).
+To make the daily tasks of creating a new file and updating the index easier, there are helper functions written in Python and a Jupyter notebook in the guise of a form to [automate that process](templates/solution.ipynb).
 
 ![Coeus](docs/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)
-
-## Table of Contents
-
-* [Description](#description)
-* [Features](#features)
-* [Project Structure](#project-structure)
-* [Prerequisites](#prerequisites)
-* [Getting Started](#getting-started)
-  * [Dependencies](#dependencies)
-  * [Installation](#installation)
-  * [Configuration](#configuration)
-  * [Usage](#usage)
-* [Author(s)](#authors)
-* [Version History](#version-history)
-  * [Release Notes](#release-notes)
-  * [Initial Release](#initial-release)
-* [Future Work](#future-work)
-* [License](#license)
-* [Contributing](#contributing)
-* [Acknowledgments](#acknowledgments)
-* [Screenshots](#screenshots)
-
-## Features
-
-* SQL problem solutions with alternate approaches
-* Regular updates with new problems added daily
-* Problems sourced from multiple platforms including Codewars, DataCamp, DataLemur, and LeetCode
-* Educational focus with all content intended for learning purposes
-* Complementary resource for SQL technical interview preparation
-* Difficulty levels marked for progressive learning
-* Notes on special SQL functions and techniques (N2SELF column)
-* Organized documentation with clear navigation and solution indexing
-* Automated solution file creation and index updating via Jupyter notebook
-
-## Project Structure
-
-```text
-SQL-EVERYDAY/
-│
-├── app/
-│   │
-│   ├── helpers/
-│   │   ├── __init__.py
-│   │   └── helpers.py
-│   │
-│   ├── templates/
-│   │   └── solution.txt
-│   │
-│   └── everyday.ipynb
-│
-├── solutions/
-│   ├── 001_solution.md
-│   ├── 002_solution.md
-│   ├── ...
-│   └── 365_solution.md
-│
-├── docs/
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
 
 ## Contents
 
@@ -204,62 +142,13 @@ SQL-EVERYDAY/
 | 111   | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/)                                                                         | [Solution](solutions/111_project_employees_i.md)                                      | LeetCode    | Easy         |   |
 | 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |
 
-## Prerequisites
-
-* TBD
-
-## Getting Started
-
-### Dependencies
-
-* See `requirements.txt`
-
-### Installation
-
-* TBD
-
-### Configuration
-
-* TBD
-
-### Usage
-
-* To automatically create a new solution file, open [`solution.ipynb`](templates/solution.ipynb) in the `templates` directory and follow instructions.
-* To check out submitted solutions and how they compare to those provided by the site, see `Contents` above.
-
 ## Author(s)
 
 * [@ggeerraarrdd](https://github.com/ggeerraarrdd/)
 
-## Version History
-
-### Release Notes
-
-* See [https://github.com/ggeerraarrdd/sql-everyday/releases](https://github.com/ggeerraarrdd/sql-everyday/releases)
-
-### Initial Release
-
-* NA
-
-## Future Work
-
-* Templatize this repository so it can be adapted for other technical skill-building "everyday" challenges, like "Python Everyday".
-
 ## License
 
 * [MIT License](https://github.com/ggeerraarrdd/sql-everyday/blob/main/LICENSE)
-
-## Contributing
-
-This project is not accepting contributions at this time. However, feel free to clone the repository and adapt it for your own SQL learning journey.
-
-## Acknowledgments
-
-* TBD
-
-## Screenshots
-
-* TBD
 
 ## Frontispiece
 

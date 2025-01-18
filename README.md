@@ -59,7 +59,32 @@ To make the daily tasks of creating a new file and updating the index easier, th
 
 ## Project Structure
 
-TODO
+```text
+SQL-EVERYDAY/
+│
+├── app/
+│   │
+│   ├── helpers/
+│   │   ├── __init__.py
+│   │   └── helpers.py
+│   │
+│   ├── templates/
+│   │   └── solution.txt
+│   │
+│   └── everyday.ipynb
+│
+├── solutions/
+│   ├── 001_solution.md
+│   ├── 002_solution.md
+│   ├── ...
+│   └── 365_solution.md
+│
+├── docs/
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
 
 ## Contents
 
@@ -180,7 +205,7 @@ TODO
 
 ## Prerequisites
 
-TODO
+* TBD
 
 ## Getting Started
 
@@ -190,7 +215,11 @@ TODO
 
 ### Installation
 
-TODO
+* TBD
+
+### Configuration
+
+* TBD
 
 ### Usage
 
@@ -209,11 +238,11 @@ TODO
 
 ### Initial Release
 
-TODO
+* NA
 
 ## Future Work
 
-TBD
+* Templatize this repository so it can be adapted for other technical skill-building "everyday" challenges, like "Python Everyday".
 
 ## License
 
@@ -225,12 +254,12 @@ This project is not accepting contributions at this time. However, feel free to 
 
 ## Acknowledgments
 
-* TODO
+* TBD
 
 ## Screenshots
 
-* TODO
+* TBD
 
-## Fronticepiece
+## Frontispiece
 
 Plate LXI: 'This proud one / Would of his strength against almighty Jove / Make trial' (Cary). Canto xxxi: Line 82: Page 165. Image taken from Dante Alighieri, Dante's Inferno. Translated by Henry Francis Cary. Illustrated by Gustave Doré. New York, London, and Paris: Cassell & Company Limited, 1866.

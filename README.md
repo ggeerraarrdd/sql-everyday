@@ -141,6 +141,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 110   | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)                                                                     | [Solution](solutions/110_average_selling_price.md)                                    | LeetCode    | Easy         |   |
 | 111   | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/)                                                                         | [Solution](solutions/111_project_employees_i.md)                                      | LeetCode    | Easy         |   |
 | 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |
+| 113   | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                   | [Solution](solutions/113_queries_quality_and_percentage.md)                           | LeetCode    | Easy         |   |
 
 ## Author(s)
 

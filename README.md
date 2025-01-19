@@ -18,7 +18,7 @@ The problems are selected from various websites devoted to online learning and t
 
 Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
-All submitted solutions are stored in this repo in their own markdown file. See the [Contents](#contents) section below for an index of those solutions.
+The problems and both submitted and site solutions are documented in individual markdown files, saved in `solutions`. See the [Contents](#contents) section below for an index.
 
 To make the daily tasks of creating a new file and updating the index easier, there are helper functions written in Python and a Jupyter notebook in the guise of a form to [automate that process](templates/solution.ipynb).
 

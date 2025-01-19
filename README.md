@@ -154,3 +154,4 @@ To make the daily tasks of creating a new file and updating the index easier, th
 ## Frontispiece
 
 Plate LXI: 'This proud one / Would of his strength against almighty Jove / Make trial' (Cary). Canto xxxi: Line 82: Page 165. Image taken from Dante Alighieri, Dante's Inferno. Translated by Henry Francis Cary. Illustrated by Gustave Doré. New York, London, and Paris: Cassell & Company Limited, 1866.
+| 109   | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                             | [Solution](solutions/109_not_boring_movies.md)                                        | LeetCode    | Easy         |   |

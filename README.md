@@ -142,6 +142,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 111   | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/)                                                                         | [Solution](solutions/111_project_employees_i.md)                                      | LeetCode    | Easy         |   |
 | 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |
 | 113   | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                   | [Solution](solutions/113_queries_quality_and_percentage.md)                           | LeetCode    | Easy         |   |
+| 114   | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/)                                                                   | [Solution](solutions/114_monthly_transactions_i.md)                                   | LeetCode    | Medium       |   |
 
 ## Author(s)
 
@@ -154,4 +155,3 @@ To make the daily tasks of creating a new file and updating the index easier, th
 ## Frontispiece
 
 Plate LXI: 'This proud one / Would of his strength against almighty Jove / Make trial' (Cary). Canto xxxi: Line 82: Page 165. Image taken from Dante Alighieri, Dante's Inferno. Translated by Henry Francis Cary. Illustrated by Gustave Doré. New York, London, and Paris: Cassell & Company Limited, 1866.
-| 109   | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                             | [Solution](solutions/109_not_boring_movies.md)                                        | LeetCode    | Easy         |   |

@@ -143,6 +143,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 112   | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                                   | [Solution](solutions/112_percentage_of_users_attended_a_contest.md)                   | LeetCode    | Easy         |   |
 | 113   | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                   | [Solution](solutions/113_queries_quality_and_percentage.md)                           | LeetCode    | Easy         |   |
 | 114   | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/)                                                                   | [Solution](solutions/114_monthly_transactions_i.md)                                   | LeetCode    | Medium       |   |
+| 115   | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/)                                                           | [Solution](solutions/115_immediate_food_delivery_ii.md)                               | LeetCode    | Medium       |   |
 
 ## Author(s)
 

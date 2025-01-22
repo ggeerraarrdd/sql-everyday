@@ -145,6 +145,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 114   | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/)                                                                   | [Solution](solutions/114_monthly_transactions_i.md)                                   | LeetCode    | Medium       |   |
 | 115   | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/)                                                           | [Solution](solutions/115_immediate_food_delivery_ii.md)                               | LeetCode    | Medium       |   |
 | 116   | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/)                                                                     | [Solution](solutions/116_game_play_analysis_iv.md)                                    | LeetCode    | Medium       |   |
+| 117   | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)               | [Solution](solutions/117_number_of_unique_subjects_taught_by_each_teacher.md)         | LeetCode    | Easy         |   |
 
 ## Author(s)
 

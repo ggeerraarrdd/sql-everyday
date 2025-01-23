@@ -146,6 +146,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 115   | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/)                                                           | [Solution](solutions/115_immediate_food_delivery_ii.md)                               | LeetCode    | Medium       |   |
 | 116   | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/)                                                                     | [Solution](solutions/116_game_play_analysis_iv.md)                                    | LeetCode    | Medium       |   |
 | 117   | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)               | [Solution](solutions/117_number_of_unique_subjects_taught_by_each_teacher.md)         | LeetCode    | Easy         |   |
+| 118   | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/)                                       | [Solution](solutions/118_user_activity_for_the_past_30_days_i.md)                     | LeetCode    | Easy         | `BETWEEN`, `DATE` w/ `INTERVAL`  |
 
 ## Author(s)
 

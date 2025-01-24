@@ -27,7 +27,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 
 ## Contents
 
-| Day   | Title                                                                                                                                                         | Solution                                                                              | Site        | Difficulty   | N2SELF               |
+| Day   | Title                                                                                                                                                         | Solution                                                                              | Site        | Difficulty   | NB                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- | ------------ | -------------------- |
 | 001   | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)                                                                                   | [Solution](solutions/001_histogram_of_tweets.md)                                      | DataLemur   | Easy         |  |
 | 002   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)                                                                             | [Solution](solutions/002_users_third_transaction.md)                                  | DataLemur   | Medium       |  |
@@ -147,6 +147,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 116   | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/)                                                                     | [Solution](solutions/116_game_play_analysis_iv.md)                                    | LeetCode    | Medium       |   |
 | 117   | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)               | [Solution](solutions/117_number_of_unique_subjects_taught_by_each_teacher.md)         | LeetCode    | Easy         |   |
 | 118   | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/)                                       | [Solution](solutions/118_user_activity_for_the_past_30_days_i.md)                     | LeetCode    | Easy         | `BETWEEN`, `DATE` w/ `INTERVAL`  |
+| 119   | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)                                                           | [Solution](solutions/119_product_sales_analysis_iii.md)                               | LeetCode    | Medium       |   |
 
 ## Author(s)
 

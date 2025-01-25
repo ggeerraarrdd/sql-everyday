@@ -148,6 +148,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 117   | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)               | [Solution](solutions/117_number_of_unique_subjects_taught_by_each_teacher.md)         | LeetCode    | Easy         |   |
 | 118   | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/)                                       | [Solution](solutions/118_user_activity_for_the_past_30_days_i.md)                     | LeetCode    | Easy         | `BETWEEN`, `DATE` w/ `INTERVAL`  |
 | 119   | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)                                                           | [Solution](solutions/119_product_sales_analysis_iii.md)                               | LeetCode    | Medium       |   |
+| 120   | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)                                                       | [Solution](solutions/120_classes_more_than_5_students.md)                             | LeetCode    | Easy         |   |
 
 ## Author(s)
 

@@ -150,6 +150,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 119   | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)                                                           | [Solution](solutions/119_product_sales_analysis_iii.md)                               | LeetCode    | Medium       |   |
 | 120   | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)                                                       | [Solution](solutions/120_classes_more_than_5_students.md)                             | LeetCode    | Easy         |   |
 | 121   | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/)                                                                       | [Solution](solutions/121_find_followers_count.md)                                     | LeetCode    | Easy         |   |
+| 122   | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)                                                                     | [Solution](solutions/122_biggest_single_number.md)                                    | LeetCode    | Easy         |   |
 
 ## Author(s)
 

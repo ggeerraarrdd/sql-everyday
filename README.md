@@ -151,6 +151,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 120   | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)                                                       | [Solution](solutions/120_classes_more_than_5_students.md)                             | LeetCode    | Easy         |   |
 | 121   | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/)                                                                       | [Solution](solutions/121_find_followers_count.md)                                     | LeetCode    | Easy         |   |
 | 122   | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)                                                                     | [Solution](solutions/122_biggest_single_number.md)                                    | LeetCode    | Easy         |   |
+| 123   | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/)                                             | [Solution](solutions/123_customers_who_bought_all_products.md)                        | LeetCode    | Medium       |   |
 
 ## Author(s)
 

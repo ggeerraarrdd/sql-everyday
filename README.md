@@ -158,6 +158,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 122   | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)                                                                     | [Solution](solutions/122_biggest_single_number.md)                                    | LeetCode    | Easy         |   |
 | 123   | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/)                                             | [Solution](solutions/123_customers_who_bought_all_products.md)                        | LeetCode    | Medium       |   |
 | 124   | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/)     | [Solution](solutions/124_the_number_of_employees_which_report_to_each_employee.md)    | LeetCode    | Easy         |   |
+| 125   | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/)                                       | [Solution](solutions/125_primary_department_for_each_employee.md)                     | LeetCode    | Easy         | `UNION`  |
 
 ## Author(s)
 

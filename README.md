@@ -6,6 +6,11 @@ One SQL problem a day for a year
 
 > [!NOTE]
 > ALL CONTENTS IN THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
+<!-- markdownlint-disable MD028 -->
+
+<!-- markdownlint-enable MD028 -->
+> [!NOTE]
+> `SQL Everyday` has been templatized into `eevveerryyddaayy`. More info [here](https://github.com/ggeerraarrdd/eevveerryyddaayy).
 
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
@@ -59,7 +64,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 028   | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)                                                                        | [Solution](solutions/028_spotify_streaming_history.md)                                | DataLemur   | Medium       |   |
 | 029   | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years)                                                                          | [Solution](solutions/029_consecutive_filing_years.md)                                 | DataLemur   | Hard         |   |
 | 030   | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1)                                                                     | [Solution](solutions/030_average_post_hiatus_part_1.md)                               | DataLemur   | Easy         |   |
-<!--| 031   | [Mean, Median, Mode](https://datalemur.com/questions/mean-median-mode)                                                                                        | [Solution](solutions/031_mean_median_mode.md)                                         | DataLemur   | Medium       | `PERCENTILE_CONT()`  |
+| 031   | [Mean, Median, Mode](https://datalemur.com/questions/mean-median-mode)                                                                                        | [Solution](solutions/031_mean_median_mode.md)                                         | DataLemur   | Medium       | `PERCENTILE_CONT()`  |
 | 032   | [Marketing Touch Streak](https://datalemur.com/questions/marketing-touch-streak)                                                                              | [Solution](solutions/032_marketing_touch_streak.md)                                   | DataLemur   | Hard         |   |
 | 033   | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                                                                                        | [Solution](solutions/033_teams_power_users.md)                                        | DataLemur   | Easy         |   |
 | 034   | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold)                                                                                 | [Solution](solutions/034_pharmacy_analytics_part_4.md)                                | DataLemur   | Medium       |   |
@@ -152,7 +157,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 121   | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/)                                                                       | [Solution](solutions/121_find_followers_count.md)                                     | LeetCode    | Easy         |   |
 | 122   | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)                                                                     | [Solution](solutions/122_biggest_single_number.md)                                    | LeetCode    | Easy         |   |
 | 123   | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/)                                             | [Solution](solutions/123_customers_who_bought_all_products.md)                        | LeetCode    | Medium       |   |
-| 124   | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/)     | [Solution](solutions/124_the_number_of_employees_which_report_to_each_employee.md)    | LeetCode    | Easy         |   |-->
+| 124   | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/)     | [Solution](solutions/124_the_number_of_employees_which_report_to_each_employee.md)    | LeetCode    | Easy         |   |
 
 ## Author(s)
 

@@ -23,7 +23,7 @@ The problems are selected from various websites devoted to online learning and t
 
 Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
-The problems and both submitted and site solutions are documented in individual markdown files, saved in `solutions`. See the [Index](#index) section below for an index.
+The problems and both submitted and site solutions are documented in individual markdown files, saved in `solutions`. These files are [indexed](#index) below.
 
 To make the daily tasks of creating a new file and updating the index easier, there are helper functions written in Python and a Jupyter notebook in the guise of a form to [automate that process](templates/solution.ipynb).
 

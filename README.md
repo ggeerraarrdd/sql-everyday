@@ -161,6 +161,7 @@ To make the daily tasks of creating a new file and updating the index easier, th
 | 125   | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/)                                       | [Solution](solutions/125_primary_department_for_each_employee.md)                     | LeetCode    | Easy         | `UNION`  |
 | 126   | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/)                                                                           | [Solution](solutions/126_triangle_judgement.md)                                       | LeetCode    | Easy         | Triangle Inequality Theorem  |
 | 127   | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)                                                                         | [Solution](solutions/127_consecutive_numbers.md)                                      | LeetCode    | Medium       |   |
+| 128   | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/)                                                     | [Solution](solutions/128_last_person_to_fit_in_the_bus.md)                            | LeetCode    | Medium       | `ORDER BY turn RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW`  |
 
 ## Author(s)
 

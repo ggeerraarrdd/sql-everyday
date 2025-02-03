@@ -11,7 +11,7 @@ There is a queue of people waiting to board a bus. However, the bus has a weight
 
 Write a solution to find the `person_name` of the *last person* that can fit on the bus without exceeding the weight limit. The test cases are generated such that the first person does not exceed the weight limit.
 
-*Note* that _only one_ person can board the bus at any given turn. [[Full Description](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/)]
+*Note* that *only one* person can board the bus at any given turn. [[Full Description](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/)]
 
 ## Submitted Solution
 
@@ -41,7 +41,11 @@ LIMIT 1
 
 ## Notes
 
-TODO
+TBD
 
-Go to [Table of Contents](/README.md#contents)\
+## NB
+
+`ORDER BY turn RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW`
+
+Go to [Table of Contents](/README.md#contents)
 Go to [Overview](/README.md)

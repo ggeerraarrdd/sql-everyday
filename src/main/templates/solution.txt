@@ -27,5 +27,9 @@ Difficulty per Site: {{ difficulty }}
 
 {{ notes }}
 
-Go to [Table of Contents](/README.md#contents)\
+## NB
+
+{{ nb }}
+
+Go to [Table of Contents](/README.md#contents)
 Go to [Overview](/README.md){{ lastline }}

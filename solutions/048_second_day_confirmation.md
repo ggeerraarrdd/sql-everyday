@@ -45,5 +45,5 @@ WHERE texts.action_date = emails.signup_date + INTERVAL '1 day'
 
 TBD
 
-Go to [Table of Contents](/README.md#contents)\
-Go to [Overview](/README.md)
+Go to [Index](../?tab=readme-ov-file#index)\
+Go to [Overview](../?tab=readme-ov-file)

@@ -45,5 +45,5 @@ LEFT JOIN texts ON emails.email_id = texts.email_id AND texts.signup_action = 'C
 
 TBD
 
-Go to [Table of Contents](/README.md#contents)\
-Go to [Overview](/README.md)
+Go to [Index](../?tab=readme-ov-file#index)\
+Go to [Overview](../?tab=readme-ov-file)

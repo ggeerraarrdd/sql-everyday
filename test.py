@@ -75,7 +75,7 @@ def process_url(filename):
 files = sorted(os.listdir('solutions/'))
 
 # Process files 1 through 5 # len(files) + 1
-for i in range(1, 3):
+for i in range(1, 130):
     filename = f'solutions/{files[i-1]}'
     
     process_url(filename)

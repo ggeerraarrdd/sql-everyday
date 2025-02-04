@@ -56,5 +56,5 @@ GROUP BY tweet_count_per_user;
 
 TBD
 
-Go to [Table of Contents](/README.md#contents)\
-Go to [Overview](/README.md)
+Go to [Index](../?tab=readme-ov-file#index)\
+Go to [Overview](../?tab=readme-ov-file)

@@ -9,7 +9,7 @@ Difficulty per Site: Medium
 
 Write a query to obtain the third transaction of every user. Output the user id, spend and transaction date. [[Full Description](https://datalemur.com/questions/sql-third-transaction)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 WITH cte AS (
@@ -29,9 +29,19 @@ WHERE transaction = 3
 ;
 ```
 
+## Site Solution
+
+```sql
+-- TBD
+```
+
 ## Notes
 
 TODO
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

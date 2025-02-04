@@ -64,5 +64,9 @@ ORDER BY user_id;
 
 * Unlike DataLemur's solution, I opted to code each case separately for readability and maintability.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

@@ -50,5 +50,9 @@ FROM uncategorised_callers;
 
 * My approach was to get all the values in the CTE necessary for the calculations in the main `SELECT` statement. DataLemur's solution included a nested query in its main `SELECT` statement to get one of those values.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

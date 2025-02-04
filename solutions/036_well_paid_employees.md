@@ -42,5 +42,9 @@ WHERE emp.salary > mgr.salary;
 * While `JOIN` can be used here, I like to use `INNER JOIN` when executing a self-join operation, and reserve `JOIN` for an inner join operation. Confusing, I know!
 * In terms of readability, I probably would have used the same table aliases using in DataLemur's solution.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

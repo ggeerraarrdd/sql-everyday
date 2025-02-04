@@ -41,5 +41,9 @@ WHERE texts.action_date = emails.signup_date + INTERVAL '1 day'
 * SQL Server: `WHERE call_date = DATEADD(day, 1, e.signup_date)`
 * MySQL: `WHERE call_date = DATE_ADD(e.signup_date), INTERVAL 1 DAY)`
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

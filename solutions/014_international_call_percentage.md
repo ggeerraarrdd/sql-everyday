@@ -51,5 +51,9 @@ LEFT JOIN phone_info AS receiver
   * Casting to decimal with `::` vs multiplying with a decimal (100 vs 100.0)
 * Using a CTE here is a personal style preference.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

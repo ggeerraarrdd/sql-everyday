@@ -9,7 +9,7 @@ Difficulty per Site: Medium
 
 Assume you're given a table on Walmart user transactions. Based on their most recent transaction date, write a query that retrieve the users along with the number of products they bought. Output the user's most recent transaction date, user ID, and the number of products, sorted in chronological order by the transaction date. [[Full Description](https://datalemur.com/questions/histogram-users-purchases)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 -- Submitted Solution
@@ -35,7 +35,11 @@ FROM cte2
 WHERE row_num = 1
 ORDER BY transaction_date ASC
 ;
+```
 
+## Site Solution
+
+```sql
 -- DataLemur Solution
 WITH latest_transactions_cte AS (
   SELECT 
@@ -58,6 +62,10 @@ ORDER BY transaction_date;
 ## Notes
 
 TODO
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

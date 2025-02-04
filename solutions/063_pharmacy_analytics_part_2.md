@@ -53,5 +53,9 @@ ORDER BY total_loss DESC;
 
 * Had I realized `WHERE cogs > total_sales` would have filtered out drugs that were profitable, I would not have needed a CTE.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

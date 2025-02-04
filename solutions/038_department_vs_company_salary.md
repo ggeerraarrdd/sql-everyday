@@ -82,5 +82,9 @@ INNER JOIN company_avg AS c
 
 TODO
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

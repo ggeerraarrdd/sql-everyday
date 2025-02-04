@@ -34,5 +34,9 @@ HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(product_key) FROM Product)
 
 TODO
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

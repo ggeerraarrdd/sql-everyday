@@ -9,7 +9,7 @@ Difficulty per Site: Medium
 
 Write a query to obtain a breakdown of the time spent sending vs. opening snaps as a percentage of total time spent on these activities grouped by age group. Round the percentage to 2 decimal places in the output. [[Full Description](https://datalemur.com/questions/time-spent-snaps)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 -- Submitted Solution
@@ -39,7 +39,11 @@ FROM cte2
 WHERE cat_rank < 3
 ORDER BY category, cat_rank
 ;
+```
 
+## Site Solution
+
+```sql
 -- DataLemur Solution
 WITH ranked_spending_cte AS (
   SELECT 
@@ -65,6 +69,10 @@ ORDER BY category, ranking;
 * This is a classic SQL ranking problem requiring a window function and a CTE or nested subquery (but always go with a CTE for readability).
 * The key is knowing the difference between [`RANK()` and `DENSE_RANK`](https://www.google.com/search?q=rank()+vs+dense_rank()).
 * New to me: You can use an aggregate function in the `OVER()` clause of window function. This would have eliminated one CTE in my submitted solution.
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

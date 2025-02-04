@@ -49,5 +49,9 @@ HAVING (SUM(years_of_experience) >= 8 AND COUNT(DISTINCT domain) = 1)
 
 TODO
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

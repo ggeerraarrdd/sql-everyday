@@ -51,5 +51,9 @@ GROUP BY employee_id;
 
 * Submitted and site solutions do no consider dates outside 2021. To do so, use `CASE WHEN...` to truncate dates to the beginning or end of the year.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

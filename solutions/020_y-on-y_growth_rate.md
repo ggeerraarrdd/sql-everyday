@@ -66,5 +66,9 @@ FROM yearly_spend_cte;
 
 TODO
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

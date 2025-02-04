@@ -45,5 +45,9 @@ JOIN cte AS c2 ON c1.amenities = c2.amenities AND c1.rental_id < c2.rental_id
 
 TODO
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

@@ -79,5 +79,9 @@ WHERE events.lag_week = events.current_week - INTERVAL '1 week'
 
 TODO
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

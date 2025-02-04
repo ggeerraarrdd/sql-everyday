@@ -9,7 +9,7 @@ Difficulty per Site: Medium
 
 Write a query to find the top 5 artists whose songs appear most frequently in the Top 10 of the global_song_rank table. Display the top 5 artist names in ascending order, along with their song appearance ranking. If two or more artists have the same number of song appearances, they should be assigned the same ranking, and the rank numbers should be continuous (i.e. 1, 2, 2, 3, 4, 5). [[Full Description](https://datalemur.com/questions/top-fans-rank)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 -- Submitted Solution
@@ -31,9 +31,19 @@ WHERE artist_rank <= 5
 ;
 ```
 
+## Site Solution
+
+```sql
+-- TBD
+```
+
 ## Notes
 
 TODO
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

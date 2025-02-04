@@ -76,5 +76,9 @@ GROUP BY EXTRACT(MONTH FROM curr_month.event_date);
 * My solution is a bit long-winded but I think it shows clearly my step-by-step process.
 * Compared to DataLemur's solution, my solution more accurately considers the definition of active user: "who has performed actions such as 'sign-in', 'like', or 'comment' in both the current month and the previous month". So whatever the value is in the `month` column, not 7.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

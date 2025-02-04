@@ -51,5 +51,9 @@ FROM filled_category;
 
 * I had to check DataLemur's hint to solve this problem. Interesting use of `COUNT()` and window function for assigning new categories but could only work with the given assumption.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

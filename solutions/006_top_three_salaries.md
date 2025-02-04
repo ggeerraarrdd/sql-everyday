@@ -11,7 +11,7 @@ As part of an ongoing analysis of salary distribution within the company, your m
 
 You're tasked with identifying these high earners across all departments. Write a query to display the employee's name along with their department name and salary. In case of duplicates, sort the results of department name in ascending order, then by salary in descending order. If multiple employees have the same salary, then order them alphabetically. [[Full Description](https://datalemur.com/questions/sql-top-three-salaries)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 -- Submitted Solution
@@ -34,9 +34,19 @@ ORDER BY department_name ASC, salary DESC, name ASC
 ;
 ```
 
+## Site Solution
+
+```sql
+-- TBD
+```
+
 ## Notes
 
 TODO
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

@@ -9,7 +9,7 @@ Difficulty per Site: Medium
 
 Write a query to obtain a breakdown of the time spent sending vs. opening snaps as a percentage of total time spent on these activities grouped by age group. Round the percentage to 2 decimal places in the output. [[Full Description](https://datalemur.com/questions/time-spent-snaps)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 -- Submitted Solution
@@ -61,7 +61,11 @@ SELECT
 FROM cte4
 JOIN cte5 ON cte4.age_bucket = cte5.age_bucket
 ;
+```
 
+## Site Solution
+
+```sql
 -- DataLemur Solution
 SELECT 
   age.age_bucket, 
@@ -81,6 +85,10 @@ GROUP BY age.age_bucket;
 ## Notes
 
 * One of the reasons I started this personal SQL Everyday chellenge is to learn SQL concepts and techniques new to me. This problem delivered with [`FILTER()`](https://www.postgresql.org/docs/current/sql-expressions.html#SYNTAX-AGGREGATES) from DataLemur's solutions. The reduction of lines from my query to that solution is remarkable.
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

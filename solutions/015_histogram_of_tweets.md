@@ -52,5 +52,9 @@ GROUP BY tweet_count_per_user;
   * CTE vs nested query in the `FROM` clause
   * `EXTRACT()` vs `BETWEEN` in the `WHERE` clause to filter dates.
 
+## NB
+
+TBD
+
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

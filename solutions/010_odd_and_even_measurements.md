@@ -15,7 +15,7 @@ Definition:
 
 Within a day, measurements taken at 1st, 3rd, and 5th times are considered odd-numbered measurements, and measurements taken at 2nd, 4th, and 6th times are considered even-numbered measurements. [[Full Description](https://datalemur.com/questions/odd-even-measurements)]
 
-## Solution
+## Submitted Solution
 
 ```sql
 -- Submitted Solution
@@ -41,7 +41,11 @@ FROM cte2
 GROUP BY time_day
 ORDER BY time_day
 ;
+```
 
+## Site Solution
+
+```sql
 -- DataLemur Solution
 WITH ranked_measurements AS (
   SELECT 
@@ -65,6 +69,10 @@ GROUP BY measurement_day;
 * One difference between my submitted solution and DataLemur's is the use of `DATE_TRUNC()` vs `CAST()` in the `PARTITION BY` clause of window function.
 * DataLemur was able to use one less CTE by using `FILTER`.
 * Another difference is the use of `MOD()` vs a `%` arithmatic operator.
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

@@ -35,7 +35,7 @@ WHERE date_min < date_max
 ```sql
 -- DataLemur Solution 
 SELECT 
-	user_id, 
+  user_id, 
     MAX(post_date::DATE) - MIN(post_date::DATE) AS days_between
 FROM posts
 WHERE DATE_PART('year', post_date::DATE) = 2021 
@@ -46,6 +46,10 @@ HAVING COUNT(post_id)>1;
 ## Notes
 
 TODO
+
+## NB
+
+TBD
 
 Go to [Table of Contents](/README.md#contents)\
 Go to [Overview](/README.md)

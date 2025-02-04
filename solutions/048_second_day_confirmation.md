@@ -43,7 +43,7 @@ WHERE texts.action_date = emails.signup_date + INTERVAL '1 day'
 
 ## NB
 
-TBD
+`INTERVAL`, `DATEADD()`, `DATE_ADD()`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

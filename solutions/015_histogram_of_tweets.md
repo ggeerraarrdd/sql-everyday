@@ -54,7 +54,7 @@ GROUP BY tweet_count_per_user;
 
 ## NB
 
-TBD
+`EXTRACT()` vs `BETWEEN`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

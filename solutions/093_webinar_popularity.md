@@ -40,7 +40,7 @@ TODO
 
 ## NB
 
-TBD
+`DATE_TRUNC()` vs `BETWEEN`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

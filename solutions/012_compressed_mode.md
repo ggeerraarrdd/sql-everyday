@@ -49,7 +49,7 @@ ORDER BY item_count;
 
 ## NB
 
-TBD
+`MODE()`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

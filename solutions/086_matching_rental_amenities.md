@@ -47,7 +47,7 @@ TODO
 
 ## NB
 
-TBD
+`ARRAY_AGG()`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

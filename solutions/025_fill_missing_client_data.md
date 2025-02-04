@@ -53,7 +53,7 @@ FROM filled_category;
 
 ## NB
 
-TBD
+`FIRST_VALUE()`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

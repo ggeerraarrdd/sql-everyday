@@ -72,7 +72,7 @@ ORDER BY category, ranking;
 
 ## NB
 
-TBD
+`RANK()` vs `DENSE_RANK`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

@@ -41,7 +41,7 @@ TODO
 
 ## NB
 
-TBD
+`EXTRACT` w/ `EPOCH`
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

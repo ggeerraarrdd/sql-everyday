@@ -37,7 +37,7 @@ TODO
 
 ## NB
 
-TBD
+Triangle Inequality Theorem
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)

@@ -23,9 +23,7 @@ The problems are selected from various websites devoted to online learning and t
 
 Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
-The problems and both submitted and site solutions are documented in individual markdown files, saved in `solutions`. These files are [indexed](#index) below.
-
-To make the daily tasks of creating a new file and updating the index easier, there are helper functions written in Python and a Jupyter notebook in the guise of a form to [automate that process](templates/solution.ipynb).
+The problems and both submitted and site solutions are documented in individual markdown files, saved in `solutions`. These files are [indexed](#index) below. To facilitate the daily tasks of creating these files and updating the index, that entire process has been automated.
 
 ![Coeus](docs/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)

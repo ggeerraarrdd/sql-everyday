@@ -272,7 +272,10 @@ def create_form_button(handler: PackageHandler, today: datetime) -> widgets.VBox
         # Clear all form fields
         url_widget.value = ''
         title_widget.value = ''
-        site_widget.value = ''
+        try:
+            site_widget.value = ''
+        except:
+            pass
         difficulty_widget.value = ''
         problem_widget.value = ''
         submitted_solution_widget.value = ''

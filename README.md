@@ -10,7 +10,7 @@ One SQL problem a day for a year
 
 <!-- markdownlint-enable MD028 -->
 > [!NOTE]
-> `SQL Everyday` has been templatized into `eevveerryyddaayy`. More info [here](https://github.com/ggeerraarrdd/eevveerryyddaayy).
+> `SQL Everyday` has been templatized into [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template/). For more info, including instructions on installation, configruation and usage, go to [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy).
 
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
@@ -165,6 +165,7 @@ The problems and both submitted and site solutions are documented in individual 
 | 130   | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/)                               | [Solution](solutions/130_employees_whose_manager_left_the_company.md)                 | LeetCode    | Easy         |                                                                     |
 | 131   | [Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)                                                                                   | [Solution](solutions/131_exchange_seats.md)                                           | LeetCode    | Medium       | `CASE` w/ `LAG` w/ `COALESCE`                                       |
 | 132   | [Movie Rating](https://leetcode.com/problems/movie-rating/description/)                                                                                       | [Solution](solutions/132_movie_rating.md)                                             | LeetCode    | Medium       |                                                                     |
+| 133   | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)                                                                             | [Solution](solutions/133_restaurant_growth.md)                                        | LeetCode    | Medium       |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 
 ## Author(s)

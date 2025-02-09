@@ -10,7 +10,7 @@ One SQL problem a day for a year
 
 <!-- markdownlint-enable MD028 -->
 > [!NOTE]
-> `SQL Everyday` has been templatized into [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template/). For more info, including instructions on installation, configruation and usage, go to [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy).
+> `SQL Everyday` has been templatized into [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template/), or simply `eevveerryyddaayy`. For more info, including instructions on installation, configruation and usage, go to [here](https://github.com/ggeerraarrdd/eevveerryyddaayy).
 
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
@@ -167,6 +167,7 @@ The problems and both submitted and site solutions are documented in individual 
 | 132   | [Movie Rating](https://leetcode.com/problems/movie-rating/description/)                                                                                       | [Solution](solutions/132_movie_rating.md)                                             | LeetCode    | Medium       |                                                                     |
 | 133   | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)                                                                             | [Solution](solutions/133_restaurant_growth.md)                                        | LeetCode    | Medium       |                                                                     |
 | 134   | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/)                        | [Solution](solutions/134_friend_requests_ii_who_has_the_most_friends.md)              | LeetCode    | Medium       | `UNION ALL`                                                         |
+| 135   | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/)                                                                         | [Solution](solutions/135_investments_in_2016.md)                                      | LeetCode    | Medium       |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 
 ## Author(s)

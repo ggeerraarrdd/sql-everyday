@@ -15,8 +15,6 @@ Return the result table in *any order*. [[Full Description](https://leetcode.com
 
 ```sql
 -- Submitted Solution
-# Write your MySQL query statement below
-
 WITH cte1 AS (
     SELECT
         DISTINCT product_id
@@ -141,4 +139,3 @@ TBD
 
 Go to [Index](../?tab=readme-ov-file#index)\
 Go to [Overview](../?tab=readme-ov-file)
-

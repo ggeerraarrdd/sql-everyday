@@ -163,6 +163,10 @@ cython_debug/
 # Pylint
 .pylintrc
 
+# VSCode
+.commons
+.vscode
+
 # markdownlint.config
 .markdownlint*
 

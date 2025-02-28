@@ -10,7 +10,7 @@ One SQL problem a day for a year
 
 <!-- markdownlint-enable MD028 -->
 > [!NOTE]
-> `SQL Everyday` has been templatized into [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template/), or simply `eevveerryyddaayy`. For more info, including instructions on installation, configruation and usage, go to [here](https://github.com/ggeerraarrdd/eevveerryyddaayy).
+> `SQL Everyday` has been templatized into [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template/), or simply `eevveerryyddaayy`. For more info, including instructions on installation, configuration and usage, go to [here](https://github.com/ggeerraarrdd/eevveerryyddaayy).
 
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
@@ -30,6 +30,7 @@ The problems and both submitted and site solutions are documented in individual 
 
 ## Index
 
+<!--- cSpell:disable --->
 <!-- Index Start - WARNING: Do not delete or modify this markdown comment. -->
 | Day   | Title                                                                                                                                                         | Solution                                                                              | Site        | Difficulty   | NB                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- | ------------ | ------------------------------------------------------------------- |
@@ -186,7 +187,9 @@ The problems and both submitted and site solutions are documented in individual 
 | 151   | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)                                                                              | [Solution](solutions/151_capital_gainloss.md)                                         | LeetCode    | Medium       |                                                                     |
 | 152   | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/)                                                               | [Solution](solutions/152_daily_leads_and_partners.md)                                 | LeetCode    | Easy         |                                                                     |
 | 153   | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/)                                   | [Solution](solutions/153_find_total_time_spent_by_each_employee.md)                   | LeetCode    | Easy         |                                                                     |
+| 154   | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/)                                                     | [Solution](solutions/154_find_users_with_valid_e_mails.md)                            | LeetCode    | Easy         | Regex                                                               |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
+<!--- cSpell:enable --->
 
 ## Author(s)
 

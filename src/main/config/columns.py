@@ -32,8 +32,8 @@ Notes:
 """
 COLS_WIDTH = {
     "day": 5,
-    "title": 157,
-    "solution": 85,
+    "title": 161,
+    "solution": 87,
     "site": 11,
     "difficulty": 12,
     "nb": 67

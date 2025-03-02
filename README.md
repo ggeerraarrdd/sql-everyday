@@ -14,16 +14,11 @@ One SQL problem a day for a year
 
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
-The problems are selected from various websites devoted to online learning and technical job interview preparations. Below is a current list of these websites.
+The problems are selected from websites devoted to online learning and technical job interview preparations. Currently, they include: [Codewars](https://www.codewars.com/), [DataLemur](https://datalemur.com/) and [LeetCode](https://leetcode.com/). Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
 
-* [Codewars](https://www.codewars.com/)
-* [DataCamp](https://www.datacamp.com/)
-* [DataLemur](https://datalemur.com/)
-* [LeetCode](https://leetcode.com/)
+For every daily SQL problem, its description and both the submitted and site solutions are documented in individual markdown files, stored in `solutions`. For quick reference, those files are [indexed](#index) below.
 
-Besides having the required set of SQL problems, they were chosen because they have an integrated database environment to work through to a solution.
-
-The problems and both submitted and site solutions are documented in individual markdown files, saved in `solutions`. These files are [indexed](#index) below. To facilitate the daily tasks of creating these files and updating the index, that entire process has been automated.
+Because this project necessitated a framework to enable consistent daily practice, much of the tedious manual work has been streamlined. For instance, generating new solution files from a template and populating them with new data has been automated. Managing the ever-growing Index has also been automated. Additionally, data entry is handled through a Jupyter IPyWidgets form. These have freed up more time on what matters most—the actual learning.
 
 ![Coeus](docs/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)

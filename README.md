@@ -10,7 +10,7 @@ One SQL problem a day for a year
 
 <!-- markdownlint-enable MD028 -->
 > [!NOTE]
-> `SQL Everyday` has been templatized into [`eevveerryyddaayy-template`](https://github.com/ggeerraarrdd/eevveerryyddaayy-template/), or simply `eevveerryyddaayy`. For more info, including instructions on installation, configuration and usage, go to [here](https://github.com/ggeerraarrdd/eevveerryyddaayy).
+> `SQL Everyday` has been templatized into [`eevveerryyddaayy`](https://github.com/ggeerraarrdd/eevveerryyddaayy/).
 
 _SQL Everyday_ is a personal challenge to solve at least one SQL problem everyday for the next 365 days, starting from September 28, 2024.
 
@@ -185,6 +185,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 154   | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/)                                                         | [Solution](solutions/154_find_users_with_valid_e_mails.md)                              | LeetCode    | Easy         | Regex                                                               |
 | 155   | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/)   | [Solution](solutions/155_actors_and_directors_who_cooperated_at_least_three_times.md)   | LeetCode    | Easy         |                                                                     |
 | 156   | [Top Travellers](https://leetcode.com/problems/top-travellers/description/)                                                                                       | [Solution](solutions/156_top_travellers.md)                                             | LeetCode    | Easy         |                                                                     |
+| 157   | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/description/)                                                                   | [Solution](solutions/157_rearrange_products_table.md)                                   | LeetCode    | Easy         |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

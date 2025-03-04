@@ -20,7 +20,7 @@ For every daily SQL problem, its description and both the submitted and site sol
 
 Because this project necessitated a framework to enable consistent daily practice, much of the tedious manual work has been streamlined. For instance, generating new solution files from a template and populating them with new data has been automated. Managing the ever-growing Index has also been automated. Additionally, data entry is handled through a Jupyter IPyWidgets form. These have freed up more time on what matters most—the actual learning.
 
-![Coeus](docs/coeus.jpg)
+![Coeus](assets/coeus.jpg)
 (_Coeus, whose name is derived from the Greek word 'koios', meaning 'query' or 'questioning', and who is associated with knowledge, determination and the inquisitive mind, here depicted second Titan from the left by Gustave Doré while attempting to solve a difficult SQL problem._)
 
 ## Index

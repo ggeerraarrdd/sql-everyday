@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 -->
-[![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](#index)
+[![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
 [![Solved](https://img.shields.io/badge/solved-163-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 

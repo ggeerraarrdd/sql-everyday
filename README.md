@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-163-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-164-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -196,7 +196,8 @@ Because this project necessitated a framework to enable consistent daily practic
 | 160   | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/)                                               | [Solution](solutions/160_employees_with_missing_information.md)                         | LeetCode    | Easy         | `FULL JOIN`                                                         |
 | 161   | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)                                                                     | [Solution](solutions/161_delete_duplicate_emails.md)                                    | LeetCode    | Easy         |                                                                     |
 | 162   | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/description/)                                     | [Solution](solutions/162_find_products_with_valid_serial_numbers.md)                    | LeetCode    | Easy         | Regex                                                               |
-| 163   | [DNA Pattern Recognition](https://leetcode.com/problems/dna-pattern-recognition/description/)                                                                    | [Solution](solutions/163_dna_pattern_recognition_.md)                                   | LeetCode    | Easy         |                                                                     |
+| 163   | [DNA Pattern Recognition](https://leetcode.com/problems/dna-pattern-recognition/description/)                                                                     | [Solution](solutions/163_dna_pattern_recognition_.md)                                   | LeetCode    | Easy         |                                                                     |
+| 164   | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/sql)                                                                                         | [Solution](solutions/164_even_or_odd.md)                                                | Codewars    | Easy         |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

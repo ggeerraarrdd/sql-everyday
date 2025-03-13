@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-166-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-167-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -200,6 +200,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 164   | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/sql)                                                                                         | [Solution](solutions/164_even_or_odd.md)                                                | Codewars    | Easy         |                                                                     |
 | 165   | [Daily Hospital Admissions and Discharges Report](https://www.codewars.com/kata/66b09bedf5ca866d7ffafc8f)                                                         | [Solution](solutions/165_daily_hospital_admissions_and_discharges_report.md)            | Codewars    | Medium       | `TO_CHAR()`                                                         |
 | 166   | [Films selection with a twist](https://www.codewars.com/kata/644424f8d7bab510f1375d20)                                                                            | [Solution](solutions/166_films_selection_with_a_twist.md)                               | Codewars    | Medium       | `PERCENTILE_DISC`                                                   |
+| 167   | [SQL Basics: Raise to the Power](https://www.codewars.com/kata/594a8f653b5b4e8f3d000035)                                                                          | [Solution](solutions/167_sql_basics_raise_to_the_power.md)                              | Codewars    | Easy         | `^` or `POW()`                                                      |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

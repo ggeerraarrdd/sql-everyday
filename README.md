@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-171-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-172-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -205,6 +205,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 169   | [NPV Queries](https://leetcode.com/problems/npv-queries/description/)                                                                                             | [Solution](solutions/169_npv_queries.md)                                                | LeetCode    | Easy         |                                                                     |
 | 170   | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/description/)                                                                         | [Solution](solutions/170_game_play_analysis_ii.md)                                      | LeetCode    | Easy         |                                                                     |
 | 171   | [Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/description/)                                                                     | [Solution](solutions/171_total_traveled_distance.md)                                    | LeetCode    | Easy         |                                                                     |
+| 172   | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/description/)                                                               | [Solution](solutions/172_create_a_session_bar_chart.md)                                 | LeetCode    | Easy         | Histogram bins w/ `UNION`, `CASE`                                   |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

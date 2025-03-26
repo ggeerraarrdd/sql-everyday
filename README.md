@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-179-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-180-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -213,6 +213,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 177   | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/)                                                             | [Solution](solutions/177_consecutive_available_seats.md)                                | LeetCode    | Easy         |                                                                     |
 | 178   | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/description/)                                                             | [Solution](solutions/178_shortest_distance_in_a_line.md)                                | LeetCode    | Easy         | `SELF-JOIN` vs `CROSS JOIN`                                         |
 | 179   | [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/description/)                                             | [Solution](solutions/179_friendly_movies_streamed_last_month.md)                        | LeetCode    | Easy         |                                                                     |
+| 180   | [Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/description/)                                                                     | [Solution](solutions/180_books_with_null_ratings.md)                                    | LeetCode    | Easy         |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-181-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-182-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday

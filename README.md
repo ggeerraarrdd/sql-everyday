@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-186-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-187-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -220,6 +220,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 184   | [Project Employees II](https://leetcode.com/problems/project-employees-ii/description/)                                                                           | [Solution](solutions/184_project_employees_ii.md)                                       | LeetCode    | Easy         | Window function w/ `GROUP BY`                                       |
 | 185   | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/description/)                                                                                   | [Solution](solutions/185_sales_analysis_i.md)                                           | LeetCode    | Easy         |                                                                     |
 | 186   | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii/description/)                                                                                 | [Solution](solutions/186_sales_analysis_ii.md)                                          | LeetCode    | Easy         | `STRING_AGG` vs `GROUP_CONCAT`                                      |
+| 187   | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/)                                                                               | [Solution](solutions/187_sales_analysis_iii.md)                                         | LeetCode    | Easy         | `HAVING`                                                            |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

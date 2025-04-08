@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-190-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-191-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -224,6 +224,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 188   | [The Winner University](https://leetcode.com/problems/the-winner-university/description/)                                                                         | [Solution](solutions/188_the_winner_university.md)                                      | LeetCode    | Easy         |                                                                     |
 | 189   | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/description/)                                         | [Solution](solutions/189_unique_orders_and_customers_per_month.md)                      | LeetCode    | Easy         |                                                                     |
 | 190   | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/description/)                                                                                 | [Solution](solutions/190_warehouse_manager.md)                                          | LeetCode    | Easy         |                                                                     |
+| 191   | [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/description/)                                                           | [Solution](solutions/191_the_number_of_rich_customers.md)                               | LeetCode    | Easy         |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 

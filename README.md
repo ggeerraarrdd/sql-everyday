@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 [![eevveerryyddaayy release](https://img.shields.io/badge/eevveerryyddaayy-v1.3.0-blue.svg)](https://github.com/ggeerraarrdd/eevveerryyddaayy/)
-[![Solved](https://img.shields.io/badge/solved-198-green.svg)](#index)
+[![Solved](https://img.shields.io/badge/solved-199-green.svg)](#index)
 <!-- markdownlint-enable MD041 -->
 
 # SQL Everyday
@@ -232,6 +232,7 @@ Because this project necessitated a framework to enable consistent daily practic
 | 196   | [Winning Candidate](https://leetcode.com/problems/winning-candidate/description/)                                                                                 | [Solution](solutions/196_winning_candidate.md)                                          | LeetCode    | Medium       |                                                                     |
 | 197   | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/)                                                               | [Solution](solutions/197_get_highest_answer_rate_question.md)                           | LeetCode    | Medium       |                                                                     |
 | 198   | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/description/)                                             | [Solution](solutions/198_count_student_number_in_departments.md)                        | LeetCode    | Medium       |                                                                     |
+| 199   | [Tree Node](https://leetcode.com/problems/tree-node/description/)                                                                                                 | [Solution](solutions/199_tree_node.md)                                                  | LeetCode    | Medium       |                                                                     |
 <!-- Index End - WARNING: Do not delete or modify this markdown comment. -->
 <!--- cSpell:enable --->
 
